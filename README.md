@@ -1,4 +1,3 @@
-"""# Vietnamese Car Price Prediction 🚗
 
 ## Mô tả Dự Án
 Dự án này sử dụng mô hình **Random Forest Regressor** để dự đoán giá xe cũ dựa trên các thông tin như:
