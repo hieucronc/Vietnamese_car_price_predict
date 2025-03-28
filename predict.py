@@ -1,47 +1,39 @@
-import pandas as pd
 import joblib
+import pandas as pd
 import numpy as np
+import datetime
 
-model = joblib.load("random_forest_car_price_model.pkl")
-scaler = joblib.load("scaler.pkl") 
-car_info = pd.read_excel("car_info.xlsx")
+def load_car_info(file_path):
+    return pd.read_excel(file_path)
 
-target_car_name = input("Nhập tên xe: ")
-target_year = int(input("Nhập năm sản xuất: "))
-target_mileage = int(input("Nhập số km đã đi: "))
+def predict_car_price(model_path, car_info_path):
+    model_info = joblib.load(model_path)
+    model = model_info["model"]
+    car_info = load_car_info(car_info_path)
+    
+    car_name = input("Nhập tên xe: ")
+    year_of_manufacture = int(input("Nhập năm sản xuất: "))
+    mileage = float(input("Nhập số km đã đi: "))
+    
+    current_year = datetime.datetime.now().year
+    car_age = current_year - year_of_manufacture
+    
+    car_encoded = car_info.loc[car_info["Car Name"] == car_name, "Car Name Encoded"]
+    
+    if car_encoded.empty:
+        print("Không tìm thấy thông tin xe trong cơ sở dữ liệu!")
+        return
+    
+    car_encoded = int(car_encoded.values[0])
+    
+    # Chuyển dữ liệu thành DataFrame có tên cột
+    features = pd.DataFrame([[car_encoded, car_age, mileage]], columns=["Car Name Encoded", "Car Age", "Mileage"])
+    
+    log_price_pred = model.predict(features)[0]
+    predicted_price = np.expm1(log_price_pred)
+    
+    print(f"Giá dự đoán cho {car_name} ({year_of_manufacture}, {mileage} km): {predicted_price:,.0f} VNĐ")
 
-target_car_age = 2024 - target_year
 
-car_details = car_info[car_info["Car Name"] == target_car_name]
-if car_details.empty:
-    print("Không tìm thấy thông tin xe. Vui lòng kiểm tra lại tên xe!")
-    exit()
-
-car_details = car_details.iloc[0]
-
-car_data = {
-    "Car Age": target_car_age,
-    "Mileage": target_mileage,
-}
-
-car_data[f"Origin_{car_details['Origin']}"] = 1
-car_data[f"Body Type_{car_details['Body Type']}"] = 1
-car_data[f"Transmission_{car_details['Transmission']}"] = 1
-car_data[f"Engine_{car_details['Engine']}"] = 1
-
-input_df = pd.DataFrame([car_data])
-
-train_columns = joblib.load("train_columns.pkl")  
-
-for col in train_columns:
-    if col not in input_df.columns:
-        input_df[col] = 0
-
-input_df = input_df[train_columns]
-
-input_df[["Mileage", "Car Age"]] = scaler.transform(input_df[["Mileage", "Car Age"]])
-
-predicted_price_log = model.predict(input_df)[0]
-predicted_price = np.expm1(predicted_price_log)  # Chuyển từ log về giá thực tế
-
-print(f"Dự đoán giá xe: {predicted_price:,.0f} VND")
+if __name__ == "__main__":
+    predict_car_price("random_forest_model.pkl", "car_info.xlsx")
