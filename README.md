@@ -17,7 +17,10 @@ API được xây dựng bằng **FastAPI** để cung cấp dịch vụ dự đ
 | `predict.py`        | Chạy mô hình đã huấn luyện để dự đoán giá xe |
 | `api.py`            | FastAPI để triển khai API dự đoán |
 | `car_info.xlsx`     | Thông tin về các xe có trong tập dữ liệu |
+| `bonbanh_car_details.csv` | Dữ liệu xe crawl từ bonbanh.com|
 | `processed_car_data.csv` | Dữ liệu xe đã qua xử lý |
+
+
 
 ---
 
