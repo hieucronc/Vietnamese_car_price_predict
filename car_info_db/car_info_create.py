@@ -64,7 +64,7 @@ for index, row in df.iterrows():
             if fuel_type != "Electric" and len(fuel_type_parts) > 1:
                 engine_capacity = ' '.join(fuel_type_parts[1:]).replace('\xa0', ' ')
 
-            # Ước tính số chỗ ngồi (có thể cần điều chỉnh logic này)
+            # Ước tính số chỗ ngồi 
             seats = None
             if isinstance(body_type, str):
                 body_type_lower = body_type.lower()

@@ -1,0 +1,1255 @@
+id,model_id,name,origin,transmission,fuel_type,engine_capacity,seats,car_name_encoded
+1,1,3.5L,Imported,Automatic,Petrol, 3.5 L,7,1
+2,1,3.7L,Imported,Automatic,Petrol, 3.7 L,7,2
+3,1,SH-AWD,Imported,Automatic,Petrol, 3.7 L,7,3
+4,2,SH-AWD,Imported,Automatic,Petrol, 3.7 L,5,4
+5,3,1.4 TFSI,Imported,Automatic,Petrol, 1.4 L,5,5
+6,4,1.4 AT,Imported,Automatic,Petrol, 1.4 L,5,6
+7,4,1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,7
+8,5,1.8 TFSI,Imported,Automatic,Petrol, 1.8 L,5,8
+9,5,1.8T,Imported,Automatic,Petrol, 1.8 L,5,9
+10,5,2.0 TFSI,Imported,Automatic,Petrol, 2.0 L,5,10
+11,5,40 TFSI Advanced,Imported,Automatic,Petrol, 2.0 L,5,11
+12,6,2.0 T Quattro,Imported,Automatic,Petrol, 2.0 L,2,12
+13,6,2.0T S-line Quattro,Imported,Automatic,Petrol, 2.0 L,2,13
+14,6,Sportback 2.0,Imported,Automatic,Petrol, 2.0 L,5,14
+15,7,1.8 TFSI,Imported,Automatic,Petrol, 1.8 L,5,15
+16,7,2.0 TFSI,Imported,Automatic,Petrol, 2.0 L,5,16
+17,7,2.0T,Imported,Automatic,Petrol, 2.0 L,5,17
+18,7,2.4 AT,Imported,Automatic,Petrol, 2.4 L,5,18
+19,7,3.0T Quattro,Imported,Automatic,Petrol, 3.0 L,5,19
+20,7,45 TFSI,Imported,Automatic,Petrol, 2.0 L,5,20
+21,8,3.0 TFSI,Imported,Automatic,Petrol, 3.0 L,5,21
+22,9,L 3.0 Quattro,Imported,Automatic,Petrol, 3.0 L,5,22
+23,9,L 4.2 Quattro,Imported,Automatic,Petrol, 4.2 L,5,23
+24,9,L V6 3.0 TFSI,Imported,Automatic,Petrol, 3.0 L,5,24
+25,10,1.4 TFSI,Imported,Automatic,Petrol, 1.4 L,5,25
+26,11,2.0 Quattro,Imported,Automatic,Petrol, 2.0 L,5,26
+27,11,35 TFSI,Imported,Automatic,Petrol, 1.4 L,5,27
+28,11,Exclusive 2.0 TFSI Quattro,Imported,Automatic,Petrol, 2.0 L,5,28
+29,12,2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,29
+30,12,3.2 AT,Imported,Automatic,Petrol, 3.2 L,7,30
+31,12,45 TFSI Quattro,Imported,Automatic,Petrol, 2.0 L,7,31
+32,12,Sportback Sline 45 TFSI Quattro,Imported,Automatic,Petrol, 2.0 L,7,32
+33,13,2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,33
+34,13,3.0 AT,Imported,Automatic,Petrol, 3.0 L,7,34
+35,13,3.6 AT,Imported,Automatic,Petrol, 3.6 L,7,35
+36,13,4.2 AT,Imported,Automatic,Petrol, 4.2 L,7,36
+37,13,45 TFSI Quattro,Imported,Automatic,Petrol, 2.0 L,7,37
+38,13,S-line 2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,38
+39,14,Sportback 3.0 TFSI Quattro AT,Imported,Automatic,Petrol, 3.0 L,5,39
+40,15,2.0 TFSI,Imported,Automatic,Petrol, 2.0 L,2,40
+41,15,Roadster 2.0 AT,Imported,Automatic,Petrol, 2.0 L,2,42
+42,15,RS 3.2 Quattro,Imported,Automatic,Petrol, 3.2 L,2,41
+43,16,Luxury,Imported,Automatic,Petrol, 1.5 L,5,95
+44,17,1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,96
+45,18,1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,97
+46,19,GT,Imported,Automatic,Petrol, 6.0 L,2,98
+47,19,GT Speed,Imported,Automatic,Petrol, 6.0 L,2,99
+48,20,6.0 V8,Imported,Automatic,Petrol, 6.0 L,5,100
+49,20,Speed,Imported,Automatic,Petrol, 6.0 L,5,101
+50,20,W12,Imported,Automatic,Petrol, 6.0 L,5,102
+51,21,116i,Imported,Automatic,Petrol, 1.6 L,5,43
+52,22,218i Active Tourer,Imported,Automatic,Petrol, 1.5 L,5,44
+53,22,218i Gran Tourer,Imported,Automatic,Petrol, 1.5 L,5,45
+54,23,320i,Imported,Automatic,Petrol, 2.0 L,5,46
+55,23,320i GT,Imported,Automatic,Petrol, 2.0 L,5,47
+56,23,320i M Sport,Assembly,Automatic,Petrol, 2.0 L,5,48
+57,23,320i Sport Line,Assembly,Automatic,Petrol, 2.0 L,5,49
+58,23,320i Sport Line Plus,Imported,Automatic,Petrol, 2.0 L,5,50
+59,23,325i,Imported,Automatic,Petrol, 2.5 L,5,51
+60,23,328i,Imported,Automatic,Petrol, 2.0 L,5,52
+61,23,328i GT,Imported,Automatic,Petrol, 2.0 L,5,53
+62,23,330i M Sport,Assembly,Automatic,Petrol, 2.0 L,5,54
+63,24,420i Convertible,Imported,Automatic,Petrol, 2.0 L,2,55
+64,24,420i Coupe,Imported,Automatic,Petrol, 2.0 L,2,56
+65,24,420i Gran Coupe,Imported,Automatic,Petrol, 2.0 L,5,57
+66,25,520i,Imported,Automatic,Petrol, 2.0 L,5,58
+67,25,520i Luxury,Imported,Automatic,Petrol, 2.0 L,5,59
+68,25,520i Luxury Line,Assembly,Automatic,Petrol, 2.0 L,5,60
+69,25,520i M Sport,Imported,Automatic,Petrol, 2.0 L,5,61
+70,25,523i,Imported,Automatic,Petrol, 2.5 L,5,62
+71,25,528i,Imported,Automatic,Petrol, 3.0 L,5,63
+72,25,528i GT,Imported,Automatic,Petrol, 2.0 L,5,64
+73,25,530i,Imported,Automatic,Petrol, 2.0 L,5,65
+74,25,530i Luxury Line,Imported,Automatic,Petrol, 2.0 L,5,66
+75,25,530i M Sport,Imported,Automatic,Petrol, 2.0 L,5,67
+76,25,535i GT,Imported,Automatic,Petrol, 3.0 L,5,68
+77,26,640i Gran Coupe,Imported,Automatic,Petrol, 3.0 L,5,69
+78,27,730d,Imported,Automatic,Diesel, 3.0 L,5,71
+79,27,730Li,Imported,Automatic,Petrol, 3.0 L,5,70
+80,27,750Li,Imported,Automatic,Petrol, 4.4 L,5,72
+81,28,sDrive18i,Imported,Automatic,Petrol, 1.5 L,7,73
+82,28,sDrive20i,Imported,Automatic,Petrol, 2.0 L,7,74
+83,28,xDrive28i,Imported,Automatic,Petrol, 3.0 L,7,75
+84,29,sDrive18i,Imported,Automatic,Petrol, 1.5 L,5,76
+85,30,sDrive20i,Assembly,Automatic,Petrol, 2.0 L,7,77
+86,30,sDrive20i M Sport,Assembly,Automatic,Petrol, 2.0 L,7,78
+87,30,xDrive20i,Imported,Automatic,Petrol, 2.0 L,7,79
+88,30,xDrive20i M Sport,Assembly,Automatic,Petrol, 2.0 L,7,80
+89,30,xDrive28i,Imported,Automatic,Petrol, 2.0 L,7,81
+90,30,xDrive30i M Sport,Imported,Automatic,Petrol, 2.0 L,7,82
+91,30,xDrive30i xLine,Imported,Automatic,Petrol, 2.0 L,7,83
+92,31,xDrive20i,Imported,Automatic,Petrol, 2.0 L,7,84
+93,31,xDrive28i,Imported,Automatic,Petrol, 2.0 L,7,85
+94,32,3.0si,Imported,Automatic,Petrol, 3.0 L,7,86
+95,32,4.8i,Imported,Automatic,Petrol, 4.8 L,7,87
+96,32,xDrive30i,Imported,Automatic,Petrol, 3.0 L,7,88
+97,32,xDrive35i,Imported,Automatic,Petrol, 3.0 L,7,89
+98,33,ActiveHybrid,Imported,Automatic,Hybrid, 4.4 L,7,90
+99,33,xDrive35i,Imported,Automatic,Petrol, 3.0 L,7,91
+100,33,xDrive50i,Imported,Automatic,Petrol, 4.4 L,7,92
+101,34,Premium,Imported,Automatic,Electric,,5,93
+102,35,Advanced,Imported,Automatic,Electric,,5,94
+103,36,Coupe 4.5 AT,Imported,Automatic,Petrol, 4.5 L,2,103
+104,37,6.2 V8,Imported,Automatic,Petrol, 6.2 L,7,104
+105,37,EXT 6.0 AT AWD,Imported,Automatic,Petrol, 6.0 L,,105
+106,38,3.0 V6,Imported,Automatic,Petrol, 3.0 L,5,106
+107,39,LT 1.4 MT,Assembly,Manual,Petrol, 1.4 L,5,107
+108,39,LTZ 1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,108
+109,39,LTZ 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,109
+110,40,2.0 Turbo,Imported,Automatic,Petrol, 2.0 L,2,110
+111,40,RS 3.6 V6,Imported,Automatic,Petrol, 3.6 L,2,111
+112,41,LT Maxx 2.0 MT,Assembly,Manual,Diesel, 2.0 L,7,112
+113,41,LTZ 2.4 AT,Assembly,Automatic,Petrol, 2.4 L,7,113
+114,41,LTZ Maxx 2.4 AT,Assembly,Automatic,Petrol, 2.4 L,7,114
+115,41,Revv LTZ 2.4 AT,Assembly,Automatic,Petrol, 2.4 L,7,115
+116,42,High Country 2.5L 4x4 AT,Imported,Automatic,Diesel, 2.5 L,,116
+117,42,High Country 2.8L 4x4 AT,Imported,Automatic,Diesel, 2.8 L,,117
+118,42,LT 2.5L 4x2 AT,Imported,Automatic,Diesel, 2.5 L,,118
+119,42,LT 2.5L 4x2 MT,Imported,Manual,Diesel, 2.5 L,,119
+120,42,LTZ 2.5L 4x4 AT,Imported,Automatic,Diesel, 2.5 L,,120
+121,42,LTZ 2.8L 4x4 AT,Imported,Automatic,Diesel, 2.8 L,,121
+122,43,LS 1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,122
+123,43,LT 1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,123
+124,43,LT 1.6L,Assembly,Manual,Petrol, 1.6 L,5,124
+125,43,LTZ 1.8 AT,Assembly,Automatic,Petrol, 1.8 L,5,125
+126,43,LTZ 1.8L,Assembly,Automatic,Petrol, 1.8 L,5,126
+127,44,Limited SE 6.0 V8 AWD,Imported,Automatic,Petrol, 6.0 L,,127
+128,45,LT 1.8,Assembly,Manual,Petrol, 1.8 L,7,128
+129,45,LT 1.8 MT,Assembly,Manual,Petrol, 1.8 L,7,129
+130,45,LTZ 1.8 AT,Assembly,Automatic,Petrol, 1.8 L,7,130
+131,46,LT 2.5L 4x2 MT,Imported,Manual,Diesel, 2.5 L,7,131
+132,46,LT 2.5L VGT 4x2 AT,Imported,Automatic,Diesel, 2.5 L,7,132
+133,46,LTZ 2.5L VGT 4x4 AT,Imported,Automatic,Diesel, 2.5 L,7,133
+134,46,LTZ 2.8L 4x4 AT,Imported,Automatic,Diesel, 2.8 L,7,134
+135,47,1.4 LT,Imported,Automatic,Petrol, 1.4 L,7,135
+136,48,2.4 AT,Imported,Automatic,Petrol, 2.4 L,5,136
+137,49,2.7 V6,Imported,Automatic,Petrol, 2.7 L,5,137
+138,49,3.5 V6,Imported,Automatic,Petrol, 3.5 L,5,138
+139,49,3.5 V6 AWD,Imported,Automatic,Petrol, 3.5 L,5,139
+140,49,5.7 V8,Imported,Automatic,Petrol, 5.7 L,5,140
+141,50,2.4 AT,Imported,Automatic,Petrol, 2.4 L,5,141
+142,51,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,142
+143,52,CDX 1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,144
+144,53,1.5 4x4 AT,Imported,Automatic,Petrol, 1.5 L,7,145
+145,54,0.9 AT,Imported,Automatic,Petrol, 0.9 L,5,150
+146,54,1.2 AT,Imported,Automatic,Petrol, 1.2 L,5,151
+147,54,1.3 AT,Imported,Automatic,Petrol, 1.25 L,5,152
+148,55,Ambiente 1.5L AT,Assembly,Automatic,Petrol, 1.5 L,7,153
+149,55,Titanium 1.0 AT,Assembly,Automatic,Petrol, 1.0 L,7,154
+150,55,Titanium 1.0 EcoBoost,Assembly,Automatic,Petrol, 1.0 L,7,155
+151,55,Titanium 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,7,156
+152,55,Titanium 1.5L AT,Assembly,Automatic,Petrol, 1.5 L,7,157
+153,55,Titanium Black 1.5L AT,Assembly,Automatic,Petrol, 1.5 L,7,158
+154,55,Trend 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,7,159
+155,55,Trend 1.5L AT,Assembly,Automatic,Petrol, 1.5 L,7,160
+156,55,Trend 1.5L MT,Assembly,Manual,Petrol, 1.5 L,7,161
+157,56,Limited 3.0 AT,Assembly,Automatic,Petrol, 3.0 L,7,162
+158,56,XLS 2.3L 4x2 AT,Assembly,Automatic,Petrol, 2.3 L,7,163
+159,56,XLT 2.3L 4x4 AT,Assembly,Automatic,Petrol, 2.3 L,7,164
+160,57,2.5L 4x2 AT,Assembly,Automatic,Diesel, 2.5 L,7,165
+161,57,2.5L 4x2 MT,Assembly,Manual,Diesel, 2.5 L,7,166
+162,57,2.5L 4x4 MT,Assembly,Manual,Diesel, 2.5 L,7,167
+163,57,2.6L 4x4 MT,Imported,Manual,Petrol, 2.6 L,7,168
+164,57,Ambiente 2.0 4x2 AT,Imported,Automatic,Diesel, 2.0 L,7,169
+165,57,Ambiente 2.0 4x2 MT,Imported,Manual,Diesel, 2.0 L,7,170
+166,57,Ambiente 2.0L 4x2 AT,Imported,Automatic,Diesel, 2.0 L,7,171
+167,57,Sport 2.0L 4x2 AT,Imported,Automatic,Diesel, 2.0 L,7,172
+168,57,Titanium 2.0L 4x2 AT,Imported,Automatic,Diesel, 2.0 L,7,173
+169,57,Titanium 2.0L 4x4 AT,Imported,Automatic,Diesel, 2.0 L,7,174
+170,57,Titanium 2.2L 4x2 AT,Imported,Automatic,Diesel, 2.2 L,7,175
+171,57,Titanium Plus 2.0L 4x4 AT,Imported,Automatic,Diesel, 2.0 L,7,176
+172,57,Trend 2.0L 4x2 AT,Imported,Automatic,Diesel, 2.0 L,7,177
+173,57,Trend 2.2L 4x2 AT,Imported,Automatic,Diesel, 2.2 L,7,178
+174,57,Wildtrak 2.0L 4x4 AT,Imported,Automatic,Diesel, 2.0 L,7,179
+175,58,Limited 2.3L EcoBoost,Imported,Automatic,Petrol, 2.3 L,7,180
+176,59,1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,181
+177,59,S 1.0 AT Ecoboost,Assembly,Automatic,Petrol, 1.0 L,5,182
+178,59,S 1.0AT Ecoboost,Assembly,Automatic,Petrol, 1.0 L,5,183
+179,59,S 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,184
+180,59,S 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,185
+181,59,Titanium 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,186
+182,59,Trend 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,187
+183,60,Limited EcoBoost,Imported,Automatic,Petrol, 3.5 L,7,188
+184,61,1.8 AT,Assembly,Automatic,Petrol, 1.8 L,5,189
+185,61,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,190
+186,61,2.0 AT Ghia,Assembly,Automatic,Petrol, 2.0 L,5,191
+187,61,Diesel 2.0 AT,Assembly,Automatic,Diesel, 2.0 L,5,192
+188,61,S 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,193
+189,61,Sport 1.5L,Assembly,Automatic,Petrol, 1.5 L,5,194
+190,61,Titanium 1.5L,Assembly,Automatic,Petrol, 1.5 L,5,195
+191,61,Titanium 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,196
+192,61,Trend 1.5L,Assembly,Automatic,Petrol, 1.5 L,5,197
+193,61,Trend 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,198
+194,62,2.3 AT,Assembly,Automatic,Petrol, 2.3 L,5,199
+195,63,EcoBoost,Imported,Automatic,Petrol, 2.3 L,2,200
+196,63,EcoBoost Fastback,Imported,Automatic,Petrol, 2.3 L,2,201
+197,64,Limited 2.0L 4x4 AT,Assembly,Automatic,Diesel, 2.0 L,,202
+198,64,Raptor 2.0L 4x4 AT,Imported,Automatic,Diesel, 2.0 L,,203
+199,64,Sport 2.0L 4x4 AT,Assembly,Automatic,Diesel, 2.0 L,,204
+200,64,Wildtrak 2.0L 4x2 AT,Imported,Automatic,Diesel, 2.0 L,,205
+201,64,Wildtrak 2.0L 4x4 AT,Assembly,Automatic,Diesel, 2.0 L,,206
+202,64,Wildtrak 2.2L 4x2 AT,Imported,Automatic,Diesel, 2.2 L,,207
+203,64,Wildtrak 2.2L 4x4 AT,Imported,Automatic,Diesel, 2.2 L,,208
+204,64,Wildtrak 3.2L 4x4 AT,Imported,Automatic,Diesel, 3.2 L,,209
+205,64,XL 2.2L 4x4 MT,Imported,Manual,Diesel, 2.2 L,,210
+206,64,XLS 2.0L 4x2 AT,Assembly,Automatic,Diesel, 2.0 L,,211
+207,64,XLS 2.0L 4x2 MT,Assembly,Manual,Diesel, 2.0 L,,212
+208,64,XLS 2.0L 4x4 AT,Assembly,Automatic,Diesel, 2.0 L,,213
+209,64,XLS 2.2L 4x2 AT,Imported,Automatic,Diesel, 2.2 L,,214
+210,64,XLS 2.2L 4x2 MT,Imported,Manual,Diesel, 2.2 L,,215
+211,64,XLT 2.0L 4x4 AT,Assembly,Automatic,Diesel, 2.0 L,,216
+212,64,XLT 2.2L 4x4 AT,Imported,Automatic,Diesel, 2.2 L,,217
+213,64,XLT 2.2L 4x4 MT,Imported,Manual,Diesel, 2.2 L,,218
+214,64,XLT 2.5L 4x4 MT,Imported,Manual,Diesel, 2.5 L,,219
+215,65,Titanium 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,7,220
+216,65,Titanium X 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,7,221
+217,65,Trend 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,7,222
+218,66,Limousine 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,,223
+219,66,Titanium 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,,224
+220,67,2.4L,Assembly,Manual,Diesel, 2.4 L,,225
+221,67,Limousine,Assembly,Manual,Diesel, 2.4 L,,226
+222,67,Luxury,Assembly,Manual,Diesel, 2.4 L,,227
+223,67,Premium,Assembly,Manual,Diesel, 2.3 L,,228
+224,67,Premium+,Assembly,Manual,Diesel, 2.3 L,,229
+225,67,Standard MID,Assembly,Manual,Diesel, 2.4 L,,231
+226,67,SVP,Assembly,Manual,Diesel, 2.4 L,,230
+227,67,TC,Assembly,Manual,Diesel, 2.2 L,,232
+228,67,Van,Assembly,Manual,Diesel, 2.4 L,,233
+229,68,Minibus 2.8 MT,Assembly,Manual,Diesel, 2.8 L,,235
+230,69,NN Van 2.8 MT,Assembly,Manual,Diesel, 2.8 L,,236
+231,70,1.6 MT,Imported,Manual,Petrol, 1.6 L,5,237
+232,71,2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,238
+233,72,HEV,Imported,Automatic,Hybrid, 1.5 L,7,239
+234,73,1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,242
+235,73,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,243
+236,73,2.4 AT,Imported,Automatic,Petrol, 2.4 L,5,244
+237,73,2.4 AT Coupe,Imported,Automatic,Petrol, 2.4 L,2,245
+238,73,3.5 AT,Imported,Automatic,Petrol, 3.5 L,5,246
+239,74,V G,Imported,Automatic,Petrol, 1.5 L,7,247
+240,74,V L,Imported,Automatic,Petrol, 1.5 L,7,248
+241,75,G,Imported,Automatic,Petrol, 1.2 L,5,249
+242,75,RS,Imported,Automatic,Petrol, 1.2 L,5,250
+243,76,1.5,Assembly,Automatic,Petrol, 1.5 L,5,259
+244,76,1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,260
+245,76,1.5 MT,Assembly,Manual,Petrol, 1.5 L,5,261
+246,76,1.5TOP,Assembly,Automatic,Petrol, 1.5 L,5,262
+247,76,G 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,263
+248,76,L 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,264
+249,76,RS 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,265
+250,77,1.5L Vtec Turbo,Imported,Automatic,Petrol, 1.5 L,5,266
+251,77,1.8 AT,Assembly,Automatic,Petrol, 1.8 L,5,267
+252,77,1.8 E,Imported,Automatic,Petrol, 1.8 L,5,268
+253,77,1.8 MT,Assembly,Manual,Petrol, 1.8 L,5,269
+254,77,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,270
+255,77,E 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,271
+256,77,E 1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,272
+257,77,G 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,273
+258,77,G 1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,274
+259,77,RS 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,275
+260,78,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,7,251
+261,78,2.4 AT,Assembly,Automatic,Petrol, 2.4 L,7,252
+262,78,2.4 AT - TG,Assembly,Automatic,Petrol, 2.4 L,7,253
+263,78,E,Assembly,Automatic,Petrol, 1.5 L,7,254
+264,78,e:HEV RS,Imported,Automatic,Hybrid, 2.0 L,7,258
+265,78,G,Assembly,Automatic,Petrol, 1.5 L,7,255
+266,78,L,Assembly,Automatic,Petrol, 1.5 L,7,256
+267,78,LSE,Assembly,Automatic,Petrol, 1.5 L,7,257
+268,79,G,Imported,Automatic,Petrol, 1.8 L,5,276
+269,79,L,Imported,Automatic,Petrol, 1.5 L,5,277
+270,79,RS,Imported,Automatic,Petrol, 1.5 L,5,278
+271,80,RS,Imported,Automatic,Petrol, 1.5 L,5,279
+272,80,V,Imported,Automatic,Petrol, 1.5 L,5,280
+273,80,VX,Imported,Automatic,Petrol, 1.5 L,5,281
+274,81,2.4 AT,Imported,Automatic,Petrol, 2.4 L,,282
+275,81,EX-L 3.5 AT,Imported,Automatic,Petrol, 3.5 L,,283
+276,81,Touring 3.5 AT,Imported,Automatic,Petrol, 3.5 L,,284
+277,82,3.5 V6,Imported,Automatic,Petrol, 3.5 L,7,285
+278,83,1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,287
+279,83,1.4 AT DB,Assembly,Automatic,Petrol, 1.4 L,5,288
+280,83,1.4 ATH,Assembly,Automatic,Petrol, 1.4 L,5,289
+281,83,1.4 MT,Assembly,Manual,Petrol, 1.4 L,5,290
+282,83,1.4 MT Base,Assembly,Manual,Petrol, 1.4 L,5,291
+283,83,1.4 MT TC,Assembly,Manual,Petrol, 1.4 L,5,292
+284,83,1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,293
+285,83,1.5 MT,Assembly,Manual,Petrol, 1.5 L,5,294
+286,83,CC 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,295
+287,83,DB 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,296
+288,84,1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,297
+289,84,1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,298
+290,85,3.3 AT,Imported,Automatic,Petrol, 3.3 L,5,299
+291,86,3.5 AT,Imported,Automatic,Petrol, 3.5 L,5,300
+292,87,3.9L Long Body,Assembly,Manual,Diesel, 3.9 L,,301
+293,87,3.9L TC,Assembly,Manual,Diesel, 3.9 L,,302
+294,88,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,303
+295,88,1.6 AT CRDi,Imported,Automatic,Diesel, 1.6 L,5,304
+296,88,CC 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,305
+297,88,DB 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,307
+298,88,TC 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,306
+299,89,CC 2.0T,Assembly,Automatic,Petrol, 2.0 L,,308
+300,89,DB 1.5T,Assembly,Automatic,Petrol, 1.5 L,,310
+301,89,TC 1.5T,Assembly,Automatic,Petrol, 1.5 L,,309
+302,90,1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,311
+303,90,1.6 AT DB,Assembly,Automatic,Petrol, 1.6 L,5,313
+304,90,1.6 AT TC,Assembly,Automatic,Petrol, 1.6 L,5,312
+305,90,1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,314
+306,90,1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,315
+307,90,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,316
+308,90,2.0 AT CC,Assembly,Automatic,Petrol, 2.0 L,5,317
+309,90,N-Line 1.6 Turbo AT,Assembly,Automatic,Petrol, 1.6 L,5,318
+310,90,Sport 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,319
+311,91,Limousine VL 500,Imported,Automatic,Petrol, 5.0 L,5,320
+312,91,VS 450,Imported,Automatic,Petrol, 4.5 L,5,321
+313,91,VS 460,Imported,Automatic,Petrol, 4.6 L,5,322
+314,91,Vs 500,Imported,Automatic,Petrol, 5.0 L,5,323
+315,92,2.0 AT,Imported,Automatic,Petrol, 2.0 L,2,324
+316,92,3.8 V6,Imported,Automatic,Petrol, 3.8 L,5,325
+317,92,BH330,Imported,Automatic,Petrol, 3.3 L,5,326
+318,92,BH380,Imported,Automatic,Petrol, 3.8 L,5,327
+319,93,Starex 2.4 AT,Imported,Automatic,Petrol, 2.4 L,,328
+320,93,Starex 2.4 MT,Imported,Manual,Petrol, 2.4 L,,329
+321,93,Starex 2.5 MT,Imported,Manual,Diesel, 2.5 L,,330
+322,93,Starex Limousine 2.4 AT,Imported,Automatic,Petrol, 2.4 L,,331
+323,93,Starex Van 2.4 MT,Imported,Manual,Petrol, 2.4 L,,332
+324,93,Starex Van 2.5 AT,Imported,Automatic,Diesel, 2.5 L,,333
+325,93,Starex Van 2.5 MT,Imported,Manual,Diesel, 2.5 L,,334
+326,94,1.2 AT,Assembly,Automatic,Petrol, 1.25 L,5,412
+327,94,1.2 AT TC,Assembly,Automatic,Petrol, 1.25 L,5,413
+328,94,1.2 MT,Assembly,Manual,Petrol, 1.25 L,5,414
+329,94,1.2 MT TC,Assembly,Manual,Petrol, 1.25 L,5,415
+330,94,Grand 1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,416
+331,94,Grand 1.0 MT,Imported,Manual,Petrol, 1.0 L,5,417
+332,94,Grand 1.2 AT,Assembly,Automatic,Petrol, 1.25 L,5,418
+333,94,Grand 1.2 MT,Assembly,Manual,Petrol, 1.25 L,5,419
+334,94,Grand 1.2 MT Base,Assembly,Manual,Petrol, 1.25 L,5,420
+335,95,1.4 AT,Imported,Automatic,Petrol, 1.4 L,5,421
+336,95,Active 1.4 AT,Imported,Automatic,Petrol, 1.4 L,5,422
+337,96,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,423
+338,96,CW 1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,424
+339,97,1.6 Turbo,Assembly,Automatic,Petrol, 1.6 L,5,339
+340,97,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,340
+341,97,2.0 ATH,Assembly,Automatic,Petrol, 2.0 L,5,341
+342,97,DB 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,342
+343,98,Exclusive 2.2 AT,Assembly,Automatic,Diesel, 2.2 L,7,346
+344,98,Prestige 2.2 AT HTRAC,Assembly,Automatic,Diesel, 2.2 L,7,347
+345,99,2.0L,Imported,Automatic,Diesel, 2.0 L,7,351
+346,99,2.2 MT,Imported,Manual,Diesel, 2.2 L,7,352
+347,99,2.2L,Assembly,Automatic,Diesel, 2.2 L,7,353
+348,99,2.2L 4WD,Assembly,Automatic,Diesel, 2.2 L,7,354
+349,99,2.2L HTRAC,Assembly,Automatic,Diesel, 2.2 L,7,355
+350,99,2.4L,Assembly,Automatic,Petrol, 2.4 L,7,356
+351,99,2.4L 4WD,Assembly,Automatic,Petrol, 2.4 L,7,357
+352,99,2.4L HTRAC,Assembly,Automatic,Petrol, 2.4 L,7,358
+353,99,2.7 AT,Imported,Automatic,Petrol, 2.7 L,7,359
+354,99,2.7 MT,Imported,Manual,Petrol, 2.7 L,7,360
+355,99,2.7L 4WD,Imported,Automatic,Petrol, 2.7 L,7,361
+356,99,Calligraphy 2.5L HTRAC 6S,Assembly,Automatic,Petrol, 2.5 L,7,362
+357,99,Calligraphy 2.5L Turbo HTRAC,Assembly,Automatic,Petrol, 2.5 L,7,363
+358,99,CC 2.2L HTRAC,Assembly,Automatic,Diesel, 2.2 L,7,364
+359,99,CC 2.4L HTRAC,Assembly,Automatic,Petrol, 2.4 L,7,365
+360,99,CC 2.5L HTRAC,Assembly,Automatic,Petrol, 2.5 L,7,366
+361,99,DB 2.4L HTRAC,Assembly,Automatic,Petrol, 2.4 L,7,376
+362,99,Hybrid 1.6 HTRAC,Assembly,Automatic,Hybrid, 1.6 L,7,367
+363,99,MLX 2.0L,Imported,Automatic,Diesel, 2.0 L,7,368
+364,99,MLX 2.2L,Imported,Automatic,Diesel, 2.2 L,7,369
+365,99,Premium 2.2L HTRAC,Assembly,Automatic,Diesel, 2.2 L,7,370
+366,99,Premium 2.4L HTRAC,Assembly,Automatic,Petrol, 2.4 L,7,371
+367,99,Prestige 2.5L HTRAC,Assembly,Automatic,Petrol, 2.5 L,7,372
+368,99,SLX,Imported,Automatic,Diesel, 2.0 L,7,373
+369,99,TC 2.2L,Assembly,Automatic,Diesel, 2.2 L,7,374
+370,99,TC 2.5L,Assembly,Automatic,Petrol, 2.5 L,7,375
+371,100,2.5 MT,Assembly,Manual,Diesel, 2.5 L,,377
+372,100,Cứu Thương,Assembly,Manual,Diesel, 2.5 L,,378
+373,100,H350 2.5 MT,Assembly,Manual,Diesel, 2.5 L,,379
+374,100,Limousine,Assembly,Manual,Diesel, 2.5 L,,380
+375,100,Limousine 2.5 MT,Assembly,Manual,Diesel, 2.5 L,,381
+376,101,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,382
+377,101,2.0 MT,Imported,Manual,Petrol, 2.0 L,5,383
+378,101,Y20,Imported,Automatic,Petrol, 2.0 L,5,384
+379,101,Y20 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,385
+380,102,CC 1.5 AT,Imported,Automatic,Petrol, 1.5 L,,386
+381,102,DB 1.5 AT,Imported,Automatic,Petrol, 1.5 L,,390
+382,102,TC 1.5 AT,Imported,Automatic,Petrol, 1.5 L,,387
+383,102,X 1.5 AT,Imported,Automatic,Petrol, 1.5 L,,388
+384,102,X CC 1.5 AT,Imported,Automatic,Petrol, 1.5 L,,389
+385,103,1.6 AT Turbo,Assembly,Automatic,Petrol, 1.6 L,5,392
+386,103,1.6 AT Turbo DB,Assembly,Automatic,Petrol, 1.6 L,5,394
+387,103,1.6 AT Turbo HTRAC DB,Assembly,Automatic,Petrol, 1.6 L,5,393
+388,103,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,395
+389,103,2.0 AT 4WD,Imported,Automatic,Petrol, 2.0 L,5,396
+390,103,2.0 AT CRDi,Assembly,Automatic,Diesel, 2.0 L,5,397
+391,103,2.0 AT CRDi 4WD,Imported,Automatic,Diesel, 2.0 L,5,398
+392,103,2.0 AT CRDi DB,Assembly,Automatic,Diesel, 2.0 L,5,399
+393,103,2.0 AT DB,Assembly,Automatic,Petrol, 2.0 L,5,401
+394,103,2.0 AT TC,Assembly,Automatic,Petrol, 2.0 L,5,400
+395,103,2.0 ATH,Assembly,Automatic,Petrol, 2.0 L,5,402
+396,103,LMX 2.0 eVGT,Imported,Automatic,Diesel, 2.0 L,5,403
+397,103,LX 2.0 VVT,Imported,Automatic,Petrol, 2.0 L,5,404
+398,104,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,406
+399,104,1.6 AT GDI,Imported,Automatic,Petrol, 1.6 L,5,407
+400,105,1.0 T-GDi,Assembly,Automatic,Petrol, 1.0 L,7,408
+401,105,1.0 T-GDi DB,Assembly,Automatic,Petrol, 1.0 L,7,409
+402,106,3.0 V6,Imported,Automatic,Diesel, 3.0 L,7,410
+403,107,35,Imported,Automatic,Petrol, 3.5 L,5,425
+404,108,3.5 AT,Imported,Automatic,Petrol, 3.5 L,5,426
+405,109,3.7 AT,Imported,Automatic,Petrol, 3.7 L,2,427
+406,110,60 3.5 AWD,Imported,Automatic,Petrol, 3.5 L,7,428
+407,111,Hi-Lander Z 1.9L 4x2 AT,Imported,Automatic,Diesel, 1.9 L,,429
+408,111,LS 1.9L 4x2 AT,Imported,Automatic,Diesel, 1.9 L,,430
+409,111,LS 1.9L 4x2 MT,Imported,Manual,Diesel, 1.9 L,,431
+410,111,LS 2.5 4x2 MT,Imported,Manual,Diesel, 2.5 L,,432
+411,111,LS 2.5 4x4 MT,Imported,Manual,Diesel, 2.5 L,,433
+412,111,LS 3.0 4x2 MT,Imported,Manual,Diesel, 3.0 L,,434
+413,111,LS 3.0 4x4 AT,Imported,Automatic,Diesel, 3.0 L,,435
+414,111,LS 3.0 4x4 MT,Imported,Manual,Diesel, 3.0 L,,436
+415,111,LS Prestige 1.9L 4x2 AT,Imported,Automatic,Diesel, 1.9 L,,437
+416,111,Type Z 1.9L 4x4 AT,Imported,Automatic,Diesel, 1.9 L,,438
+417,112,1.9 4X2 AT,Imported,Automatic,Diesel, 1.9 L,7,440
+418,112,1.9 4X2 MT,Imported,Manual,Diesel, 1.9 L,7,441
+419,112,2.5 4X2 MT,Imported,Manual,Diesel, 2.5 L,7,442
+420,112,3.0 4X2 AT,Imported,Automatic,Diesel, 3.0 L,7,443
+421,112,3.0L 4x4 AT,Imported,Automatic,Diesel, 3.0 L,7,444
+422,112,Limited 3.0L 4x2 AT,Imported,Automatic,Diesel, 3.0 L,7,445
+423,112,Prestige 1.9 4X2 AT,Imported,Automatic,Diesel, 1.9 L,7,446
+424,113,Prestige,Imported,Automatic,Petrol, 3.0 L,7,454
+425,113,R-Sport,Imported,Automatic,Petrol, 3.0 L,7,455
+426,114,2.0 T,Imported,Automatic,Petrol, 2.0 L,5,456
+427,114,25T Portfolio,Imported,Automatic,Petrol, 2.0 L,5,457
+428,115,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,458
+429,115,Prestige,Imported,Automatic,Petrol, 2.0 L,5,459
+430,116,XJ 2.0 Premium Luxury,Imported,Automatic,Petrol, 2.0 L,5,460
+431,116,XJL 2.0 Portfolio,Imported,Automatic,Petrol, 2.0 L,5,461
+432,116,XJL 3.0 Portfolio,Imported,Automatic,Petrol, 3.0 L,5,462
+433,116,XJL 3.0 Supercharged,Imported,Automatic,Petrol, 3.0 L,5,463
+434,116,XJL 5.0 Supercharged,Imported,Automatic,Petrol, 5.0 L,5,464
+435,117,1.4T Premium,Assembly,Automatic,Petrol, 1.4 L,7,469
+436,117,1.4T Signature,Assembly,Automatic,Petrol, 1.4 L,7,470
+437,117,1.5G IVT,Assembly,Automatic,Petrol, 1.5 L,7,471
+438,117,1.5G Luxury,Assembly,Automatic,Petrol, 1.5 L,7,472
+439,117,1.5G MT Deluxe,Assembly,Manual,Petrol, 1.5 L,7,473
+440,117,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,474
+441,117,2.0 MT,Imported,Manual,Petrol, 2.0 L,5,475
+442,117,CRDi 2.0 AT,Imported,Automatic,Diesel, 2.0 L,5,476
+443,117,CRDi 2.0 MT,Imported,Manual,Diesel, 2.0 L,5,477
+444,117,EX 2.0 MT,Assembly,Manual,Petrol, 2.0 L,5,478
+445,117,EXMT,Assembly,Manual,Petrol, 2.0 L,5,479
+446,117,S SX 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,480
+447,117,S SX 2.0 MT,Assembly,Manual,Petrol, 2.0 L,5,481
+448,117,SX 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,482
+449,117,SXAT,Assembly,Automatic,Petrol, 2.0 L,5,483
+450,118,2.7 MT,Imported,Manual,Petrol, 2.7 L,,484
+451,118,Luxury 2.2D,Assembly,Automatic,Diesel, 2.2 L,,485
+452,118,Premium 2.2D,Assembly,Automatic,Diesel, 2.2 L,,486
+453,118,Premium 2.2D 7S,Assembly,Automatic,Diesel, 2.2 L,,487
+454,118,Premium 2.2D 8S,Assembly,Automatic,Diesel, 2.2 L,,488
+455,118,Royal 2.2D,Assembly,Automatic,Diesel, 2.2 L,,489
+456,118,Signature 2.2D,Assembly,Automatic,Diesel, 2.2 L,,490
+457,118,Signature 3.5G,Assembly,Automatic,Petrol, 3.5 L,,491
+458,119,1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,492
+459,119,1.6 AT Deluxe,Assembly,Automatic,Petrol, 1.6 L,5,493
+460,119,1.6 AT Luxury,Assembly,Automatic,Petrol, 1.6 L,5,494
+461,119,1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,495
+462,119,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,496
+463,119,2.0 AT Premium,Assembly,Automatic,Petrol, 2.0 L,5,497
+464,119,Koup 1.6 AT,Imported,Automatic,Petrol, 1.6 L,2,498
+465,119,Koup 2.0 AT,Imported,Automatic,Petrol, 2.0 L,2,499
+466,120,EX 1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,500
+467,120,S 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,501
+468,120,SLi 1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,502
+469,120,SLi 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,503
+470,120,SX 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,504
+471,120,SX 1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,505
+472,121,1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,510
+473,121,1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,511
+474,121,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,512
+475,121,Deluxe 1.6 MT,Assembly,Manual,Petrol, 1.6 L,5,513
+476,121,GT 1.6 AT Turbo,Assembly,Automatic,Petrol, 1.6 L,5,514
+477,121,Luxury 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,515
+478,121,Premium 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,516
+479,121,Premium 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,517
+480,122,GT-Line 2.5 AT,Assembly,Automatic,Petrol, 2.5 L,5,518
+481,122,Luxury 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,519
+482,122,Premium 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,520
+483,123,1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,521
+484,123,1.0 AT Sport,Imported,Automatic,Petrol, 1.0 L,5,522
+485,123,1.25 AT,Assembly,Automatic,Petrol, 1.25 L,5,523
+486,123,1.25 MT,Assembly,Manual,Petrol, 1.25 L,5,524
+487,123,AT,Assembly,Automatic,Petrol, 1.25 L,5,525
+488,123,Deluxe,Assembly,Automatic,Petrol, 1.25 L,5,526
+489,123,EX,Assembly,Manual,Petrol, 1.25 L,5,527
+490,123,GT-Line,Assembly,Automatic,Petrol, 1.25 L,5,528
+491,123,Luxury,Assembly,Automatic,Petrol, 1.25 L,5,529
+492,123,MT,Assembly,Manual,Petrol, 1.25 L,5,530
+493,123,S AT,Assembly,Automatic,Petrol, 1.25 L,5,531
+494,123,Si AT,Assembly,Automatic,Petrol, 1.25 L,5,532
+495,123,Si MT,Assembly,Manual,Petrol, 1.25 L,5,533
+496,123,Van 1.0 AT,Assembly,Automatic,Petrol, 1.0 L,5,534
+497,123,X-Line,Assembly,Automatic,Petrol, 1.25 L,5,535
+498,124,3.5 AT,Imported,Automatic,Petrol, 3.5 L,5,536
+499,125,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,537
+500,125,2.0 AT Luxury,Assembly,Automatic,Petrol, 2.0 L,5,538
+501,125,2.0 ATH,Assembly,Automatic,Petrol, 2.0 L,5,539
+502,125,2.0 GAT Luxury,Assembly,Automatic,Petrol, 2.0 L,5,540
+503,125,2.4 GAT Premium,Assembly,Automatic,Petrol, 2.4 L,5,541
+504,125,2.4 GT line,Assembly,Automatic,Petrol, 2.4 L,5,542
+505,126,1.25 AT,Assembly,Automatic,Petrol, 1.25 L,5,543
+506,126,S 1.25 AT,Assembly,Automatic,Petrol, 1.25 L,5,544
+507,126,S 1.25 MT,Assembly,Manual,Petrol, 1.25 L,5,545
+508,127,1.0 AT,Imported,Automatic,Petrol, 1.0 L,,546
+509,128,1.4 AT,Imported,Automatic,Petrol, 1.4 L,5,547
+510,128,1.4 MT,Imported,Manual,Petrol, 1.4 L,5,548
+511,129,DAT,Assembly,Automatic,Diesel, 1.7 L,7,549
+512,129,GAT,Assembly,Automatic,Petrol, 2.0 L,7,550
+513,129,GAT Deluxe,Assembly,Automatic,Petrol, 2.0 L,7,551
+514,129,GATH,Assembly,Automatic,Petrol, 2.0 L,7,552
+515,129,GMT,Assembly,Manual,Petrol, 2.0 L,7,553
+516,130,2.2 DAT Deluxe,Assembly,Automatic,Diesel, 2.2 L,,554
+517,130,2.2 DAT Luxury,Assembly,Automatic,Diesel, 2.2 L,,555
+518,130,2.2 DAT Signature,Assembly,Automatic,Diesel, 2.2 L,,556
+519,130,2.2L DAT,Assembly,Automatic,Diesel, 2.2 L,,557
+520,130,2.2L DATH,Assembly,Automatic,Diesel, 2.2 L,,558
+521,130,3.3 GAT Premium,Assembly,Automatic,Petrol, 3.3 L,,559
+522,130,3.3 GAT Signature,Assembly,Automatic,Petrol, 3.3 L,,560
+523,130,3.3L GAT,Assembly,Automatic,Petrol, 3.3 L,,561
+524,130,3.3L GATH,Assembly,Automatic,Petrol, 3.3 L,,562
+525,130,Platinum D,Assembly,Automatic,Diesel, 2.2 L,,563
+526,130,Platinum G,Assembly,Automatic,Petrol, 3.3 L,,564
+527,131,1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,565
+528,131,Deluxe 1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,566
+529,131,Deluxe 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,567
+530,131,GT-Line 1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,568
+531,131,Luxury 1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,569
+532,131,Luxury 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,570
+533,131,Luxury 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,571
+534,131,Premium 1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,572
+535,131,Premium 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,573
+536,131,Premium 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,574
+537,131,X-Line 1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,575
+538,132,1.4 AT Deluxe,Assembly,Automatic,Petrol, 1.4 L,5,576
+539,132,1.4 AT Luxury,Assembly,Automatic,Petrol, 1.4 L,5,577
+540,132,1.4 MT,Assembly,Manual,Petrol, 1.4 L,5,578
+541,132,1.4 MT Deluxe,Assembly,Manual,Petrol, 1.4 L,5,579
+542,133,Deluxe 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,580
+543,133,Deluxe 1.5 MT,Assembly,Manual,Petrol, 1.5 L,5,581
+544,133,Luxury 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,582
+545,133,Premium 1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,583
+546,134,2.2 DAT Premium,Assembly,Automatic,Diesel, 2.2 L,7,584
+547,134,2.4 GAT Deluxe,Assembly,Automatic,Petrol, 2.4 L,7,585
+548,134,2.4 GAT Premium,Assembly,Automatic,Petrol, 2.4 L,7,586
+549,134,2.5 AT CRDi,Imported,Automatic,Diesel, 2.5 L,7,587
+550,134,DATH,Assembly,Automatic,Diesel, 2.2 L,7,588
+551,134,DATH 2.2L 2WD,Assembly,Automatic,Diesel, 2.2 L,7,589
+552,134,Deluxe 2.2 AT,Assembly,Automatic,Diesel, 2.2 L,7,591
+553,134,DMT,Assembly,Manual,Diesel, 2.2 L,7,590
+554,134,GAT,Assembly,Automatic,Petrol, 2.4 L,7,592
+555,134,GAT 2.4L 2WD,Imported,Automatic,Petrol, 2.4 L,7,593
+556,134,GAT 2.4L 4WD,Assembly,Automatic,Petrol, 2.4 L,7,594
+557,134,GATH,Assembly,Automatic,Petrol, 2.4 L,7,595
+558,134,GATH 2.4L 2WD,Assembly,Automatic,Petrol, 2.4 L,7,596
+559,134,Limited 2.0 AT,Imported,Automatic,Diesel, 2.0 L,7,597
+560,134,Luxury 2.2 AT,Assembly,Automatic,Diesel, 2.2 L,7,598
+561,134,Premium 2.2 AT AWD,Assembly,Automatic,Diesel, 2.2 L,7,599
+562,134,Signature 2.2 AT AWD,Assembly,Automatic,Diesel, 2.2 L,7,600
+563,134,Signature 2.5 AT AWD,Assembly,Automatic,Petrol, 2.5 L,7,601
+564,135,2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,602
+565,136,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,603
+566,136,GT Line,Imported,Automatic,Petrol, 2.0 L,5,604
+567,136,Limited 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,605
+568,136,Luxury 2.0G,Assembly,Automatic,Petrol, 2.0 L,5,606
+569,136,Signature 1.6T AWD,Assembly,Automatic,Petrol, 1.6 L,5,607
+570,136,Signature 2.0D,Assembly,Automatic,Diesel, 2.0 L,5,608
+571,136,Signature X-Line 1.6T AWD,Assembly,Automatic,Petrol, 1.6 L,5,609
+572,136,Signature X-Line 2.0D,Assembly,Automatic,Diesel, 2.0 L,5,610
+573,136,Signature X-Line 2.0G,Assembly,Automatic,Petrol, 2.0 L,5,611
+574,136,TXL 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,612
+575,137,4 HSE 5.0 V8,Imported,Automatic,Petrol, 5.0 L,7,613
+576,137,HSE,Imported,Automatic,Petrol, 3.0 L,7,614
+577,137,HSE 5.0 V8,Imported,Automatic,Petrol, 5.0 L,7,615
+578,137,SE,Imported,Automatic,Petrol, 3.0 L,7,616
+579,137,Sport HSE,Imported,Automatic,Petrol, 2.0 L,7,617
+580,137,Sport HSE Luxury,Imported,Automatic,Petrol, 2.0 L,7,618
+581,138,LR2 HSE,Imported,Automatic,Petrol, 3.2 L,7,619
+582,139,Autobiography 5.0,Imported,Automatic,Petrol, 5.0 L,7,620
+583,140,Dynamic,Imported,Automatic,Petrol, 2.0 L,7,621
+584,140,HSE,Imported,Automatic,Petrol, 2.0 L,7,622
+585,140,HSE Dynamic,Imported,Automatic,Petrol, 2.0 L,7,623
+586,140,Prestige,Imported,Automatic,Petrol, 2.0 L,7,624
+587,140,Pure,Imported,Automatic,Petrol, 2.0 L,7,625
+588,140,R-Dynamic,Imported,Automatic,Petrol, 2.0 L,7,626
+589,140,Plus,Imported,Automatic,Petrol, 2.0 L,7,627
+590,139,HSE 4.4,Imported,Automatic,Petrol, 4.4 L,7,628
+591,141,Autobiography,Imported,Automatic,Petrol, 3.0 L,7,629
+592,141,Autobiography 5.0,Imported,Automatic,Petrol, 5.0 L,7,630
+593,141,Autobiography 5.0 V8,Imported,Automatic,Petrol, 5.0 L,7,631
+594,141,HSE,Imported,Automatic,Petrol, 3.0 L,7,632
+595,141,Supercharged,Imported,Automatic,Petrol, 5.0 L,7,633
+596,141,Supercharged 3.0,Imported,Automatic,Petrol, 3.0 L,7,634
+597,139,Supercharged 5.0,Imported,Automatic,Petrol, 5.0 L,7,635
+598,142,3.6,Imported,Automatic,Diesel, 3.6 L,7,636
+599,143,200h,Imported,Automatic,Hybrid, 1.8 L,5,637
+600,144,250,Imported,Automatic,Petrol, 2.5 L,5,638
+601,144,300h,Imported,Automatic,Hybrid, 2.5 L,5,639
+602,144,350,Imported,Automatic,Petrol, 3.5 L,5,640
+603,145,300,Imported,Automatic,Petrol, 3.0 L,5,641
+604,145,350,Imported,Automatic,Petrol, 3.5 L,5,642
+605,145,350 AWD,Imported,Automatic,Petrol, 3.5 L,5,643
+606,145,350 F-Sport,Imported,Automatic,Petrol, 3.5 L,5,644
+607,145,430,Imported,Automatic,Petrol, 4.3 L,5,645
+608,146,460,Imported,Automatic,Petrol, 4.6 L,7,646
+609,146,470,Imported,Automatic,Petrol, 4.7 L,7,647
+610,147,250,Imported,Automatic,Petrol, 2.5 L,5,648
+611,147,250C,Imported,Automatic,Petrol, 2.5 L,2,649
+612,147,300 Luxury,Imported,Automatic,Petrol, 2.0 L,5,650
+613,148,400,Imported,Automatic,Petrol, 4.0 L,5,651
+614,148,430,Imported,Automatic,Petrol, 4.3 L,5,652
+615,148,460,Imported,Automatic,Petrol, 4.6 L,5,653
+616,148,460L,Imported,Automatic,Petrol, 4.6 L,5,654
+617,148,460L AWD,Imported,Automatic,Petrol, 4.6 L,5,655
+618,148,600hL,Imported,Automatic,Hybrid, 5.0 L,5,656
+619,149,470,Imported,Automatic,Petrol, 4.7 L,7,657
+620,149,570,Imported,Automatic,Petrol, 5.7 L,7,658
+621,150,200t,Imported,Automatic,Petrol, 2.0 L,7,659
+622,150,300,Imported,Automatic,Petrol, 2.0 L,7,660
+623,151,200t,Imported,Automatic,Petrol, 2.0 L,2,661
+624,151,300,Imported,Automatic,Petrol, 2.0 L,2,662
+625,151,350 F Sport AWD,Imported,Automatic,Petrol, 3.5 L,2,663
+626,152,200t,Imported,Automatic,Petrol, 2.0 L,7,664
+627,152,330,Imported,Automatic,Petrol, 3.3 L,7,665
+628,152,330 AWD,Imported,Automatic,Petrol, 3.3 L,7,666
+629,152,350,Imported,Automatic,Petrol, 3.5 L,7,667
+630,152,350 AWD,Imported,Automatic,Petrol, 3.5 L,7,668
+631,152,350 F-Sport,Imported,Automatic,Petrol, 3.5 L,7,669
+632,152,450h,Imported,Automatic,Hybrid, 3.5 L,7,670
+633,153,430,Imported,Automatic,Petrol, 4.3 L,2,671
+634,154,2.2 T,Imported,Automatic,Petrol, 2.2 L,,672
+635,155,1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,673
+636,156,2.2 Turbo sport,Imported,Automatic,Petrol, 2.2 L,7,674
+637,156,2.2T,Imported,Automatic,Petrol, 2.2 L,7,675
+638,157,4.2 AT,Imported,Automatic,Petrol, 4.2 L,2,685
+639,158,3.0 V6,Imported,Automatic,Petrol, 3.0 L,5,686
+640,159,1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,687
+641,159,Deluxe,Imported,Automatic,Petrol, 1.5 L,5,688
+642,159,Luxury,Imported,Automatic,Petrol, 1.5 L,5,689
+643,159,Premium,Imported,Automatic,Petrol, 1.5 L,5,690
+644,159,S,Assembly,Automatic,Petrol, 1.5 L,5,691
+645,159,Sport Luxury,Imported,Automatic,Petrol, 1.5 L,5,692
+646,159,Sport Premium,Imported,Automatic,Petrol, 1.5 L,5,693
+647,160,1.5 AT,Assembly,Automatic,Petrol, 1.5 L,5,694
+648,160,1.5L Deluxe,Assembly,Automatic,Petrol, 1.5 L,5,695
+649,160,1.5L Luxury,Assembly,Automatic,Petrol, 1.5 L,5,696
+650,160,1.5L Premium,Assembly,Automatic,Petrol, 1.5 L,5,697
+651,160,1.5L Sport Luxury,Assembly,Automatic,Petrol, 1.5 L,5,698
+652,160,1.5L Sport Premium,Assembly,Automatic,Petrol, 1.5 L,5,699
+653,160,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,700
+654,160,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,701
+655,160,2.0L Premium,Assembly,Automatic,Petrol, 2.0 L,5,702
+656,160,2.0L Sport Signature Luxury,Assembly,Automatic,Petrol, 2.0 L,5,703
+657,160,2.0L Sport Signature Premium,Assembly,Automatic,Petrol, 2.0 L,5,704
+658,160,Luxury,Assembly,Automatic,Petrol, 1.5 L,5,705
+659,160,S 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,706
+660,160,S 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,707
+661,160,Sport Luxury,Assembly,Automatic,Petrol, 1.5 L,5,708
+662,161,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,709
+663,161,2.0L,Assembly,Automatic,Petrol, 2.0 L,5,710
+664,161,2.0L Premium,Assembly,Automatic,Petrol, 2.0 L,5,711
+665,161,2.5 AT,Assembly,Automatic,Petrol, 2.5 L,5,712
+666,161,2.5L Premium,Assembly,Automatic,Petrol, 2.5 L,5,713
+667,161,Deluxe 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,714
+668,161,Luxury 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,715
+669,161,Premium 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,716
+670,161,Premium 2.5 AT,Assembly,Automatic,Petrol, 2.5 L,5,717
+671,161,Signature Premium 2.5 AT,Assembly,Automatic,Petrol, 2.5 L,5,718
+672,162,1.9L 4x2 AT,Imported,Automatic,Diesel, 1.9 L,,719
+673,162,2.2L 4x2 AT,Imported,Automatic,Diesel, 2.2 L,,720
+674,162,2.2L 4x2 ATH,Imported,Automatic,Diesel, 2.2 L,,721
+675,162,2.2L 4x4 MT,Imported,Manual,Diesel, 2.2 L,,722
+676,162,3.2L 4x4 AT,Imported,Automatic,Diesel, 3.2 L,,723
+677,162,Deluxe 2.2L 4x2 AT,Imported,Automatic,Diesel, 2.2 L,,724
+678,162,Luxury 2.2L 4x2 AT,Imported,Automatic,Diesel, 2.2 L,,725
+679,162,Premium 1.9L 4x4 AT,Imported,Automatic,Diesel, 1.9 L,,726
+680,162,Standard 2.2L 4x4 MT,Imported,Manual,Diesel, 2.2 L,,727
+681,163,Luxury 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,728
+682,163,Premium 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,729
+683,164,Deluxe 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,730
+684,164,Luxury 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,731
+685,164,Premium 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,732
+686,165,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,7,733
+687,165,2.0 AT AWD,Assembly,Automatic,Petrol, 2.0 L,7,734
+688,165,2.0 Deluxe,Assembly,Automatic,Petrol, 2.0 L,7,735
+689,165,2.0 Luxury,Assembly,Automatic,Petrol, 2.0 L,7,736
+690,165,2.0 Premium,Assembly,Automatic,Petrol, 2.0 L,7,737
+691,165,2.5 AT,Assembly,Automatic,Petrol, 2.5 L,7,738
+692,165,2.5 AT 2WD,Assembly,Automatic,Petrol, 2.5 L,7,739
+693,165,2.5 AT AWD,Assembly,Automatic,Petrol, 2.5 L,7,740
+694,165,2.5 Premium 2WD,Assembly,Automatic,Petrol, 2.5 L,7,741
+695,165,2.5 Signature Premium 2WD,Assembly,Automatic,Petrol, 2.5 L,7,742
+696,165,2.5 Signature Premium 2WD I-Activ,Assembly,Automatic,Petrol, 2.5 L,7,743
+697,165,Deluxe 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,7,744
+698,165,Luxury 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,7,745
+699,165,Premium 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,7,746
+700,165,Premium Exclusive 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,7,747
+701,165,Premium Sport 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,7,748
+702,165,Signature Premium 2.5 AT AWD I-Activ,Assembly,Automatic,Petrol, 2.5 L,7,749
+703,165,Signature Sport 2.5 AT,Assembly,Automatic,Petrol, 2.5 L,7,750
+704,165,Signature Sport 2.5 AT AWD,Assembly,Automatic,Petrol, 2.5 L,7,751
+705,166,Deluxe,Assembly,Automatic,Petrol, 2.5 L,7,752
+706,166,Luxury,Assembly,Automatic,Petrol, 2.5 L,7,753
+707,166,Premium,Assembly,Automatic,Petrol, 2.5 L,7,754
+708,166,Premium AWD,Assembly,Automatic,Petrol, 2.5 L,7,755
+709,167,3.7 AT AWD,Imported,Automatic,Petrol, 3.7 L,7,756
+710,168,A200,Imported,Automatic,Petrol, 1.6 L,5,758
+711,168,A250 Sport AMG,Imported,Automatic,Petrol, 2.0 L,5,759
+712,168,A45 AMG,Imported,Automatic,Petrol, 2.0 L,5,760
+713,169,C180,Assembly,Automatic,Petrol, 1.5 L,5,761
+714,169,C180 AMG,Assembly,Automatic,Petrol, 1.5 L,5,762
+715,169,C200,Assembly,Automatic,Petrol, 2.0 L,5,763
+716,169,C200 Avantgarde,Assembly,Automatic,Petrol, 1.5 L,5,764
+717,169,C200 Avantgarde Plus,Assembly,Automatic,Petrol, 1.5 L,5,765
+718,169,C200 CGI,Assembly,Automatic,Petrol, 1.8 L,5,766
+719,169,C200 Elegance,Assembly,Automatic,Petrol, 1.8 L,5,767
+720,169,C200 Exclusive,Assembly,Automatic,Petrol, 2.0 L,5,768
+721,169,C230 Avantgarde,Assembly,Automatic,Petrol, 2.5 L,5,769
+722,169,C250,Assembly,Automatic,Petrol, 1.8 L,5,770
+723,169,C250 AMG,Assembly,Automatic,Petrol, 2.0 L,5,771
+724,169,C250 CGI,Assembly,Automatic,Petrol, 1.8 L,5,772
+725,169,C250 Exclusive,Assembly,Automatic,Petrol, 2.0 L,5,773
+726,169,C300 AMG,Assembly,Automatic,Petrol, 2.0 L,5,774
+727,169,C300 AMG First Edition,Imported,Automatic,Petrol, 2.0 L,5,775
+728,169,C350 AMG,Imported,Automatic,Petrol, 3.5 L,5,776
+729,170,CLA 200,Imported,Automatic,Petrol, 1.6 L,5,777
+730,170,CLA 250 4Matic,Imported,Automatic,Petrol, 2.0 L,5,778
+731,170,CLA 45 AMG 4Matic,Imported,Automatic,Petrol, 2.0 L,5,779
+732,171,CLS 300,Imported,Automatic,Petrol, 3.0 L,5,780
+733,171,CLS 350 AMG,Imported,Automatic,Petrol, 3.5 L,5,781
+734,171,CLS 63 AMG,Imported,Automatic,Petrol, 5.5 L,5,782
+735,172,E180,Assembly,Automatic,Petrol, 1.5 L,5,783
+736,172,E200,Assembly,Automatic,Petrol, 2.0 L,5,784
+737,172,E200 Edition,Assembly,Automatic,Petrol, 2.0 L,5,785
+738,172,E200 Exclusive,Assembly,Automatic,Petrol, 2.0 L,5,786
+739,172,E200 Sport,Assembly,Automatic,Petrol, 2.0 L,5,787
+740,172,E250,Assembly,Automatic,Petrol, 2.0 L,5,788
+741,172,E250 AMG,Assembly,Automatic,Petrol, 2.0 L,5,789
+742,172,E280,Assembly,Automatic,Petrol, 3.0 L,5,790
+743,172,E300,Assembly,Automatic,Petrol, 3.0 L,5,791
+744,172,E300 AMG,Imported,Automatic,Petrol, 2.0 L,5,792
+745,172,E300 AMG CBU,Imported,Automatic,Petrol, 2.0 L,5,793
+746,172,E350,Imported,Automatic,Petrol, 3.5 L,5,794
+747,172,E350 Coupe,Imported,Automatic,Petrol, 3.5 L,2,795
+748,172,E400,Assembly,Automatic,Petrol, 3.0 L,5,796
+749,172,E400 AMG,Assembly,Automatic,Petrol, 3.0 L,5,797
+750,172,E400 AMG Cabriolet,Assembly,Automatic,Petrol, 3.0 L,2,798
+751,172,E500,Imported,Automatic,Petrol, 5.0 L,5,799
+752,173,GL 320 CDI 4Matic,Imported,Automatic,Diesel, 3.0 L,7,800
+753,173,GL 350 BlueTec 4Matic,Imported,Automatic,Diesel, 3.0 L,7,801
+754,173,GL 350 CDI 4Matic,Imported,Automatic,Diesel, 3.0 L,7,802
+755,173,GL 400 4Matic,Imported,Automatic,Petrol, 3.0 L,7,803
+756,173,GL 450 4Matic,Imported,Automatic,Petrol, 4.7 L,7,804
+757,173,GL 500 4Matic,Imported,Automatic,Petrol, 4.7 L,7,805
+758,173,GL 550 4Matic,Imported,Automatic,Petrol, 5.5 L,7,806
+759,173,GL 550 AMG 4Matic,Imported,Automatic,Petrol, 4.7 L,7,807
+760,174,GLA 200,Imported,Automatic,Petrol, 1.6 L,7,808
+761,174,GLA 250 4Matic,Imported,Automatic,Petrol, 2.0 L,7,809
+762,174,GLA 45 AMG 4Matic,Imported,Automatic,Petrol, 2.0 L,7,810
+763,175,GLB 200 AMG,Imported,Automatic,Petrol, 1.3 L,7,811
+764,175,GLB 35 4Matic,Imported,Automatic,Petrol, 2.0 L,7,812
+765,176,GLC 200,Assembly,Automatic,Petrol, 2.0 L,7,813
+766,176,GLC 200 4Matic,Assembly,Automatic,Petrol, 2.0 L,7,814
+767,176,GLC 250 4Matic,Assembly,Automatic,Petrol, 2.0 L,7,815
+768,176,GLC 300 4Matic,Assembly,Automatic,Petrol, 2.0 L,7,816
+769,176,GLC 300 4Matic Coupe,Imported,Automatic,Petrol, 2.0 L,7,817
+770,176,GLC 300 Coupe 4Matic,Imported,Automatic,Petrol, 2.0 L,7,818
+771,177,GLE 400 4Matic,Imported,Automatic,Petrol, 3.0 L,7,819
+772,177,GLE 400 4Matic Coupe,Imported,Automatic,Petrol, 3.0 L,2,820
+773,177,GLE 450 AMG 4Matic Coupe,Imported,Automatic,Petrol, 3.0 L,2,821
+774,178,GLK220 CDI 4Matic,Assembly,Automatic,Diesel, 2.1 L,7,822
+775,178,GLK250 4Matic,Assembly,Automatic,Petrol, 2.0 L,7,823
+776,178,GLK250 AMG 4Matic,Assembly,Automatic,Petrol, 2.0 L,7,824
+777,178,GLK280 4Matic,Assembly,Automatic,Petrol, 3.0 L,7,825
+778,178,GLK300 4Matic,Assembly,Automatic,Petrol, 3.0 L,7,826
+779,178,GLK300 AMG 4Matic,Assembly,Automatic,Petrol, 3.0 L,7,827
+780,179,GLS 400 4Matic,Imported,Automatic,Petrol, 3.0 L,7,828
+781,180,ML350,Imported,Automatic,Petrol, 3.5 L,7,829
+782,180,ML350 4Matic,Imported,Automatic,Petrol, 3.5 L,7,830
+783,180,ML400 AMG 4Matic,Imported,Automatic,Petrol, 3.0 L,7,831
+784,181,R350,Imported,Automatic,Petrol, 3.5 L,5,832
+785,181,R350 4Matic,Imported,Automatic,Petrol, 3.5 L,5,833
+786,182,S300L,Imported,Automatic,Petrol, 3.0 L,5,834
+787,182,S350,Imported,Automatic,Petrol, 3.5 L,5,835
+788,182,S400L,Assembly,Automatic,Petrol, 3.0 L,5,836
+789,182,S450,Assembly,Automatic,Petrol, 3.0 L,5,837
+790,182,S450L,Assembly,Automatic,Petrol, 3.0 L,5,838
+791,182,S450L Luxury,Assembly,Automatic,Petrol, 3.0 L,5,839
+792,182,S500,Imported,Automatic,Petrol, 5.5 L,5,840
+793,182,S500L,Assembly,Automatic,Petrol, 4.7 L,5,841
+794,182,S550,Imported,Automatic,Petrol, 5.5 L,5,842
+795,182,S600,Imported,Automatic,Petrol, 5.5 L,5,843
+796,182,S63 AMG,Imported,Automatic,Petrol, 6.2 L,5,844
+797,183,Sprinter 313 ESP,Assembly,Manual,Diesel, 2.2 L,,845
+798,183,Sprinter Panel Van 311,Assembly,Manual,Diesel, 2.2 L,,846
+799,184,V220d CDI,Imported,Automatic,Diesel, 2.1 L,,847
+800,184,V250 AMG,Imported,Automatic,Petrol, 2.0 L,,848
+801,184,V250 Avantgarde,Imported,Automatic,Petrol, 2.0 L,,849
+802,184,V250 Luxury,Imported,Automatic,Petrol, 2.0 L,,850
+803,185,Vito 111 CDI Van,Imported,Manual,Diesel, 2.1 L,,851
+804,185,Vito Tourer 116 CDI,Imported,Manual,Diesel, 2.1 L,,852
+805,185,Vito Tourer 121,Imported,Automatic,Petrol, 2.0 L,,853
+806,186,1.5 MT,Imported,Manual,Petrol, 1.5 L,5,676
+807,186,Luxury 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,677
+808,186,Standard 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,678
+809,187,1.5T LUX,Imported,Automatic,Petrol, 1.5 L,5,679
+810,187,Trophy 1.5 AT 2WD,Imported,Automatic,Petrol, 1.5 L,5,680
+811,188,1.5T LUX,Imported,Automatic,Petrol, 1.5 L,5,681
+812,189,Comfort 1.5 AT 2WD,Imported,Automatic,Petrol, 1.5 L,5,682
+813,189,Luxury 1.5 AT 2WD,Imported,Automatic,Petrol, 1.5 L,5,683
+814,189,Standard 1.5 AT 2WD,Imported,Automatic,Petrol, 1.5 L,5,684
+815,190,3Dr,Imported,Automatic,Petrol, 1.5 L,2,854
+816,190,Clubman JCW,Imported,Automatic,Petrol, 2.0 L,5,855
+817,190,Clubman S,Imported,Automatic,Petrol, 2.0 L,5,856
+818,190,Convertible,Imported,Automatic,Petrol, 1.5 L,2,857
+819,190,JCW Convertible,Imported,Automatic,Petrol, 2.0 L,2,858
+820,190,S,Imported,Automatic,Petrol, 1.6 L,2,859
+821,190,S 3 Door,Imported,Automatic,Petrol, 2.0 L,5,860
+822,190,S 3Dr,Imported,Automatic,Petrol, 2.0 L,2,861
+823,190,S 5 Door,Imported,Automatic,Petrol, 2.0 L,5,862
+824,190,S 5Dr,Imported,Automatic,Petrol, 2.0 L,5,863
+825,190,S Convertible,Imported,Automatic,Petrol, 2.0 L,2,864
+826,191,1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,865
+827,192,1.2 AT,Imported,Automatic,Petrol, 1.2 L,5,867
+828,192,1.2 CVT,Imported,Automatic,Petrol, 1.2 L,5,868
+829,192,1.2 CVT Eco,Imported,Automatic,Petrol, 1.2 L,5,869
+830,192,1.2 MT,Imported,Manual,Petrol, 1.2 L,5,870
+831,192,1.2 MT Eco,Imported,Manual,Petrol, 1.2 L,5,871
+832,192,1.2CVT,Imported,Automatic,Petrol, 1.2 L,5,872
+833,192,Premium 1.2 CVT,Imported,Automatic,Petrol, 1.2 L,5,874
+834,193,Plus 1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,877
+835,194,2.4 AT,Assembly,Automatic,Petrol, 2.4 L,5,878
+836,195,2.4 AT,Imported,Automatic,Petrol, 2.4 L,5,879
+837,196,GLX 1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,880
+838,197,1.2 AT,Imported,Automatic,Petrol, 1.2 L,5,881
+839,197,1.2 CVT,Imported,Automatic,Petrol, 1.2 L,5,882
+840,197,1.2 CVT Eco,Imported,Automatic,Petrol, 1.2 L,5,883
+841,197,1.2 MT,Imported,Manual,Petrol, 1.2 L,5,884
+842,198,2.0 CVT,Assembly,Automatic,Petrol, 2.0 L,7,885
+843,198,2.0 CVT Premium,Assembly,Automatic,Petrol, 2.0 L,7,886
+844,198,2.4 CVT,Imported,Automatic,Petrol, 2.4 L,7,887
+845,198,2.4 CVT Premium,Assembly,Automatic,Petrol, 2.4 L,7,888
+846,198,2.4 CVT Special Edition,Assembly,Automatic,Petrol, 2.4 L,7,889
+847,198,3.0 AT,Imported,Automatic,Petrol, 3.0 L,7,890
+848,198,Premium 2.0 CVT,Assembly,Automatic,Petrol, 2.0 L,7,891
+849,198,Sport 2.0 CVT Premium,Imported,Automatic,Petrol, 2.0 L,7,892
+850,199,2.8,Imported,Manual,Diesel, 2.8 L,7,893
+851,199,3,Assembly,Manual,Petrol, 3.0 L,7,894
+852,199,3.0 4x4 AT,Imported,Automatic,Petrol, 3.0 L,7,895
+853,199,3.0 AT,Imported,Automatic,Petrol, 3.0 L,7,896
+854,199,3.5,Assembly,Manual,Petrol, 3.5 L,7,897
+855,200,2.4D 4x2 AT,Imported,Automatic,Diesel, 2.4 L,7,898
+856,200,2.4D 4x2 MT,Imported,Manual,Diesel, 2.4 L,7,899
+857,200,2.4D 4x4 AT,Imported,Automatic,Diesel, 2.4 L,7,900
+858,200,3.0G 4x2 AT,Imported,Automatic,Petrol, 3.0 L,7,901
+859,200,3.0G 4x2 AT Premium,Imported,Automatic,Petrol, 3.0 L,7,902
+860,200,3.0G 4x4 AT,Imported,Automatic,Petrol, 3.0 L,7,903
+861,200,D 4x2 AT,Assembly,Automatic,Diesel, 2.5 L,7,904
+862,200,D 4x2 MT,Assembly,Manual,Diesel, 2.5 L,7,905
+863,200,D 4x4 MT,Assembly,Manual,Diesel, 2.5 L,7,906
+864,200,G 4x2 AT,Assembly,Automatic,Petrol, 3.0 L,7,907
+865,200,G 4x4 AT,Assembly,Automatic,Petrol, 3.0 L,7,908
+866,201,4x2 AT,Imported,Automatic,Diesel, 2.4 L,,909
+867,201,4x2 AT Mivec,Imported,Automatic,Diesel, 2.4 L,,910
+868,201,4x2 AT Mivec Base,Imported,Automatic,Diesel, 2.4 L,,911
+869,201,4x2 AT Mivec Premium,Imported,Automatic,Diesel, 2.4 L,,912
+870,201,4x2 MT,Imported,Manual,Diesel, 2.4 L,,913
+871,201,4x4 AT,Imported,Automatic,Diesel, 2.5 L,,914
+872,201,4x4 AT Mivec Premium,Imported,Automatic,Diesel, 2.4 L,,916
+873,201,4x4 MT,Imported,Manual,Diesel, 2.5 L,,917
+874,201,Athlete 4x2 AT,Imported,Automatic,Diesel, 2.4 L,,918
+875,201,Athlete 4x2 AT Mivec,Imported,Automatic,Diesel, 2.4 L,,919
+876,201,Athlete 4x4 AT,Imported,Automatic,Diesel, 2.4 L,,920
+877,201,GLS 4x4 AT,Imported,Automatic,Diesel, 2.5 L,,921
+878,201,GLS 4x4 MT,Imported,Manual,Diesel, 2.5 L,,922
+879,201,GLX 4x2 MT,Imported,Manual,Diesel, 2.5 L,,923
+880,202,Exceed,Imported,Automatic,Petrol, 1.5 L,7,924
+881,202,GLX,Imported,Automatic,Petrol, 1.5 L,7,925
+882,202,Premium,Imported,Automatic,Petrol, 1.5 L,7,926
+883,203,1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,927
+884,203,1.5 AT DB,Imported,Automatic,Petrol, 1.5 L,7,929
+885,203,1.5 AT Special Edition,Imported,Automatic,Petrol, 1.5 L,7,928
+886,203,1.5 MT,Imported,Manual,Petrol, 1.5 L,7,930
+887,203,Cross 1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,931
+888,203,Cross 1.5 AT DB,Imported,Automatic,Petrol, 1.5 L,7,932
+889,203,Premium 1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,933
+890,204,GLS 2.4 AT,Assembly,Automatic,Petrol, 2.4 L,7,934
+891,204,GLS 2.4 MT,Assembly,Manual,Petrol, 2.4 L,7,935
+892,205,1.0 MT,Imported,Manual,Petrol, 1.0 L,5,936
+893,205,EL 1.0 CVT,Imported,Automatic,Petrol, 1.0 L,5,937
+894,205,VL 1.0 CVT CC,Imported,Automatic,Petrol, 1.0 L,5,938
+895,206,Sylphy 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,939
+896,207,1.8 AT,Assembly,Automatic,Petrol, 1.8 L,5,940
+897,208,1.6 AT,Imported,Automatic,Petrol, 1.6 L,7,941
+898,209,e-Power V,Imported,Automatic,Hybrid, 1.2 L,7,942
+899,210,3.0 AT,Imported,Automatic,Petrol, 3.0 L,5,943
+900,211,SL 3.5,Imported,Automatic,Petrol, 3.5 L,5,944
+901,212,Black Edition VL 2.5 AT 4WD,Imported,Automatic,Diesel, 2.5 L,,945
+902,212,E 2.5 MT 2WD,Imported,Manual,Diesel, 2.5 L,,946
+903,212,E 2.5MT 2WD,Imported,Manual,Diesel, 2.5 L,,947
+904,212,EL 2.3 AT 2WD,Imported,Automatic,Diesel, 2.3 L,,948
+905,212,EL 2.3 AT 2WD CC,Imported,Automatic,Diesel, 2.3 L,,949
+906,212,EL 2.5 AT 2WD,Imported,Automatic,Diesel, 2.5 L,,950
+907,212,EL 2.5AT 2WD,Imported,Automatic,Diesel, 2.5 L,,951
+908,212,EL A-IVI 2.5 AT 2WD,Imported,Automatic,Diesel, 2.5 L,,952
+909,212,EL Premium R,Imported,Automatic,Diesel, 2.5 L,,953
+910,212,EL Premium Z,Imported,Automatic,Diesel, 2.5 L,,954
+911,212,LE 2.5MT 4WD,Imported,Manual,Diesel, 2.5 L,,955
+912,212,Pro-4X 2.3 AT 4WD,Imported,Automatic,Diesel, 2.3 L,,956
+913,212,Pro-4X 2.5 AT 4WD,Imported,Automatic,Diesel, 2.5 L,,957
+914,212,SL 2.5 MT 4WD,Imported,Manual,Diesel, 2.5 L,,958
+915,212,SL 2.5MT 4WD,Imported,Manual,Diesel, 2.5 L,,959
+916,212,VE 2.5 AT 2WD,Imported,Automatic,Diesel, 2.5 L,,960
+917,212,VL 2.3 AT 4WD CC,Imported,Automatic,Diesel, 2.3 L,,961
+918,212,VL 2.5 AT 4WD,Imported,Automatic,Diesel, 2.5 L,,962
+919,212,VL Premium R,Imported,Automatic,Diesel, 2.5 L,,963
+920,212,XE 2.5AT 4WD,Imported,Automatic,Diesel, 2.5 L,,964
+921,213,S 3.5 V6 4WD,Imported,Automatic,Petrol, 3.5 L,7,965
+922,214,4.2 MT,Imported,Manual,Diesel, 4.2 L,7,966
+923,215,LE AWD,Imported,Automatic,Petrol, 2.0 L,7,967
+924,215,SE AWD,Imported,Automatic,Petrol, 2.0 L,7,968
+925,216,Q Series XT Premium,Assembly,Automatic,Petrol, 1.5 L,5,969
+926,216,Q Series XV Premium,Assembly,Automatic,Petrol, 1.5 L,5,970
+927,216,XL,Assembly,Manual,Petrol, 1.5 L,5,971
+928,216,XV,Assembly,Automatic,Petrol, 1.5 L,5,972
+929,216,XV Premium,Assembly,Automatic,Petrol, 1.5 L,5,973
+930,216,XV Premium S,Assembly,Automatic,Petrol, 1.5 L,5,974
+931,217,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,975
+932,217,2.5 AT 250XV,Imported,Automatic,Petrol, 2.5 L,5,976
+933,217,2.5 SL,Imported,Automatic,Petrol, 2.5 L,5,977
+934,218,E 2.5 AT 2WD,Imported,Automatic,Petrol, 2.5 L,7,978
+935,218,S 2.5 MT 2WD,Imported,Manual,Diesel, 2.5 L,7,979
+936,218,V 2.5 AT 4WD,Imported,Automatic,Petrol, 2.5 L,7,980
+937,219,II 2.7 MT,Imported,Manual,Diesel, 2.7 L,7,981
+938,220,1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,982
+939,221,2.0 SL 2WD,Assembly,Automatic,Petrol, 2.0 L,7,983
+940,221,2.0 SL Luxury,Assembly,Automatic,Petrol, 2.0 L,7,984
+941,221,2.5 SV 4WD,Assembly,Automatic,Petrol, 2.5 L,7,985
+942,221,2.5 SV 4WD PREMIUM,Assembly,Automatic,Petrol, 2.5 L,7,986
+943,221,V Series 2.0 SL Luxury,Assembly,Automatic,Petrol, 2.0 L,7,987
+944,221,V Series 2.0 SL Premium,Assembly,Automatic,Petrol, 2.0 L,7,988
+945,221,V Series 2.5 SV 4WD,Assembly,Automatic,Petrol, 2.5 L,7,989
+946,221,V Series 2.5 SV Luxury 4WD,Assembly,Automatic,Petrol, 2.5 L,7,990
+947,221,V Series 2.5 SV Premium 4WD,Assembly,Automatic,Petrol, 2.5 L,7,991
+948,222,1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,992
+949,223,Active 1.2 AT,Assembly,Automatic,Petrol, 1.2 L,5,993
+950,223,GT Line 1.2 AT,Assembly,Automatic,Petrol, 1.2 L,5,994
+951,224,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,995
+952,225,1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,996
+953,225,1.6 AT FL,Assembly,Automatic,Petrol, 1.6 L,5,997
+954,225,Active 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,1000
+955,225,AL,Assembly,Automatic,Petrol, 1.6 L,5,998
+956,225,Allure 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,1001
+957,225,AT,Assembly,Automatic,Petrol, 1.6 L,5,999
+958,225,GT,Assembly,Automatic,Petrol, 1.6 L,5,1002
+959,226,GT Line 1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,1003
+960,227,1.8 MT,Imported,Manual,Petrol, 1.8 L,5,1004
+961,228,Allure 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,1005
+962,228,GT 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,1006
+963,228,Premium 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,5,1007
+964,228,Premium 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,1008
+965,229,1.6 AT,Assembly,Automatic,Petrol, 1.6 L,7,1009
+966,229,Allure 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,7,1010
+967,229,GT 1.6 AT,Assembly,Automatic,Petrol, 1.6 L,7,1011
+968,230,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,1012
+969,231,Luxury,Assembly,Automatic,Diesel, 2.0 L,,1013
+970,231,Premium,Assembly,Automatic,Diesel, 2.0 L,,1014
+971,232,3.0 V6 Diesel,Imported,Automatic,Diesel, 3.0 L,7,1015
+972,232,3.6 V6,Imported,Automatic,Petrol, 3.6 L,7,1016
+973,232,GTS,Imported,Automatic,Petrol, 4.8 L,7,1017
+974,232,S,Imported,Automatic,Petrol, 4.8 L,7,1018
+975,232,Turbo,Imported,Automatic,Petrol, 4.8 L,7,1019
+976,233,2,Imported,Automatic,Petrol, 2.0 L,7,1020
+977,233,S,Imported,Automatic,Petrol, 3.0 L,7,1021
+978,234,3.6 V6,Imported,Automatic,Petrol, 3.6 L,5,1022
+979,234,4,Imported,Automatic,Petrol, 3.6 L,5,1023
+980,234,4S,Imported,Automatic,Petrol, 4.8 L,5,1024
+981,234,S,Imported,Automatic,Petrol, 4.8 L,5,1025
+982,234,Turbo,Imported,Automatic,Petrol, 4.8 L,5,1026
+983,235,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,1027
+984,236,2.5 AT,Imported,Automatic,Petrol, 2.5 L,7,1028
+985,237,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,1029
+986,238,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,1030
+987,239,2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,1033
+988,240,2.4 AT,Imported,Automatic,Petrol, 2.4 L,5,1034
+989,241,1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,1035
+990,242,Style 1.4 AT,Imported,Automatic,Petrol, 1.4 L,5,1036
+991,243,1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,1037
+992,244,LV7,Imported,Automatic,Diesel, 2.7 L,7,1038
+993,245,1.6 AT 2WD,Imported,Automatic,Petrol, 1.6 L,7,1039
+994,246,1.6 AT,Imported,Automatic,Petrol, 1.6 L,7,1040
+995,247,2.4 AT EyeSight,Imported,Automatic,Petrol, 2.4 L,2,1041
+996,248,2.0i-L,Imported,Automatic,Petrol, 2.0 L,7,1043
+997,248,2.0i-S,Imported,Automatic,Petrol, 2.0 L,7,1044
+998,248,2.0i-S EyeSight,Imported,Automatic,Petrol, 2.0 L,7,1045
+999,248,2.0i-S EyeSight GT Edition,Imported,Automatic,Petrol, 2.0 L,7,1046
+1000,248,2.0XT,Imported,Automatic,Petrol, 2.0 L,7,1042
+1001,249,2.5i,Imported,Automatic,Petrol, 2.5 L,7,1047
+1002,250,2.0i-S,Imported,Automatic,Petrol, 2.0 L,7,1048
+1003,251,1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,1049
+1004,251,1.0 MT,Imported,Manual,Petrol, 1.0 L,5,1050
+1005,252,1.4 AT,Imported,Automatic,Petrol, 1.4 L,5,1051
+1006,253,1.4 AT,Imported,Automatic,Petrol, 1.4 L,7,1052
+1007,253,GL 1.5 MT,Imported,Manual,Petrol, 1.5 L,7,1053
+1008,253,GLX 1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,1054
+1009,253,Hybrid 1.5 AT,Imported,Automatic,Hybrid, 1.5 L,7,1055
+1010,253,Sport 1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,1056
+1011,254,vitara 2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,1057
+1012,255,Blind Van,Assembly,Manual,Petrol, 1.0 L,,1058
+1013,256,1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,1059
+1014,256,GLX 1.2 AT,Imported,Automatic,Petrol, 1.2 L,5,1060
+1015,256,RS,Assembly,Automatic,Petrol, 1.4 L,5,1061
+1016,256,Special,Assembly,Automatic,Petrol, 1.4 L,5,1062
+1017,256,Special 1.2 AT,Imported,Automatic,Petrol, 1.2 L,5,1063
+1018,257,1.6 AT,Imported,Automatic,Petrol, 1.6 L,7,1064
+1019,258,1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,1065
+1020,258,Hybrid 1.5 AT,Imported,Automatic,Hybrid, 1.5 L,7,1066
+1021,258,Sport Limited 1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,1067
+1022,259,S Thùng Bạt,Assembly,Manual,Petrol, 1.3 L,,1069
+1023,260,V 1.5 MT,Assembly,Manual,Petrol, 1.5 L,,1068
+1024,261,Van TF450V 2S,Assembly,Manual,Petrol, 1.6 L,,1073
+1025,261,Van TF480V 5S,Assembly,Manual,Petrol, 1.6 L,,1074
+1026,262,Limited,Imported,Automatic,Petrol, 4.0 L,7,1079
+1027,262,SR5,Imported,Automatic,Petrol, 4.0 L,7,1080
+1028,263,2.0 AT,Imported,Automatic,Petrol, 2.0 L,2,1081
+1029,264,2.4,Imported,Automatic,Petrol, 2.4 L,,1082
+1030,264,3.5 V6,Imported,Automatic,Petrol, 3.5 L,,1083
+1031,265,1.3 MT,Imported,Manual,Petrol, 1.3 L,5,1084
+1032,265,1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,1085
+1033,265,Premio 1.5 AT,Imported,Automatic,Petrol, 1.5 L,7,1086
+1034,265,Premio 1.5 MT,Assembly,Manual,Petrol, 1.5 L,7,1087
+1035,266,1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,1088
+1036,267,2.0E,Assembly,Automatic,Petrol, 2.0 L,5,1089
+1037,267,2.0G,Imported,Automatic,Petrol, 2.0 L,5,1090
+1038,267,2.0Q,Imported,Automatic,Petrol, 2.0 L,5,1091
+1039,267,2.4G,Assembly,Automatic,Petrol, 2.4 L,5,1092
+1040,267,2.5G,Assembly,Automatic,Petrol, 2.5 L,5,1093
+1041,267,2.5HV,Imported,Automatic,Hybrid, 2.5 L,5,1094
+1042,267,2.5Q,Assembly,Automatic,Petrol, 2.5 L,5,1095
+1043,267,3.0V,Assembly,Automatic,Petrol, 3.0 L,5,1096
+1044,267,3.5Q,Assembly,Automatic,Petrol, 3.5 L,5,1097
+1045,267,LE 2.4,Imported,Automatic,Petrol, 2.4 L,5,1098
+1046,267,LE 2.5,Imported,Automatic,Petrol, 2.5 L,5,1099
+1047,267,LE 2.5 AT,Imported,Automatic,Petrol, 2.5 L,5,1100
+1048,267,LE 3.5,Imported,Automatic,Petrol, 3.5 L,5,1101
+1049,267,SE 2.4,Imported,Automatic,Petrol, 2.4 L,5,1102
+1050,267,SE 2.5,Imported,Automatic,Petrol, 2.5 L,5,1103
+1051,267,XLE 2.4,Imported,Automatic,Petrol, 2.4 L,5,1104
+1052,267,XLE 2.5,Imported,Automatic,Petrol, 2.5 L,5,1105
+1053,268,1.8E AT,Imported,Automatic,Petrol, 1.8 L,5,1115
+1054,268,1.8G,Imported,Automatic,Petrol, 1.8 L,5,1116
+1055,268,1.8G AT,Assembly,Automatic,Petrol, 1.8 L,5,1117
+1056,268,1.8G MT,Assembly,Manual,Petrol, 1.8 L,5,1118
+1057,268,1.8HEV,Imported,Automatic,Hybrid, 1.8 L,5,1119
+1058,268,1.8V,Imported,Automatic,Petrol, 1.8 L,5,1120
+1059,268,2.0V,Assembly,Automatic,Petrol, 2.0 L,5,1121
+1060,268,2.0V AT,Assembly,Automatic,Petrol, 2.0 L,5,1122
+1061,268,2.0Z,Imported,Automatic,Petrol, 2.0 L,5,1123
+1062,269,1.8G,Imported,Automatic,Petrol, 1.8 L,7,1106
+1063,269,1.8HEV,Imported,Automatic,Hybrid, 1.8 L,7,1107
+1064,269,1.8HV,Imported,Automatic,Hybrid, 1.8 L,7,1108
+1065,269,1.8V,Imported,Automatic,Petrol, 1.8 L,7,1109
+1066,270,GLi 1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,1110
+1067,270,LE 1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,1111
+1068,270,S 1.8 AT,Imported,Automatic,Petrol, 1.8 L,5,1112
+1069,270,XLi 1.3 AT,Imported,Automatic,Petrol, 1.3 L,5,1113
+1070,270,XLi 1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,1114
+1071,271,Royal Saloon 3.0 AT,Imported,Automatic,Petrol, 3.0 L,5,1124
+1072,271,Super Saloon 3.0 MT,Imported,Manual,Petrol, 3.0 L,5,1125
+1073,272,2.4G 4x2 AT,Assembly,Automatic,Diesel, 2.4 L,7,1126
+1074,272,2.4G 4x2 AT Legender,Assembly,Automatic,Diesel, 2.4 L,7,1127
+1075,272,2.4G 4x2 MT,Imported,Manual,Diesel, 2.4 L,7,1128
+1076,272,2.4L 4x2 AT,Assembly,Automatic,Diesel, 2.4 L,7,1129
+1077,272,2.4L 4x2 MT,Assembly,Manual,Diesel, 2.4 L,7,1130
+1078,272,2.5G,Assembly,Manual,Diesel, 2.5 L,7,1131
+1079,272,2.7L 4x2 AT,Imported,Automatic,Petrol, 2.7 L,7,1132
+1080,272,2.7V 4X2 AT (2016-),Assembly,Automatic,Petrol, 2.7 L,7,1133
+1081,272,2.7V 4x2 AT (2017+),Imported,Automatic,Petrol, 2.7 L,7,1134
+1082,272,2.7V 4x2 AT TRD,Assembly,Automatic,Petrol, 2.7 L,7,1135
+1083,272,2.7V 4x4 AT,Imported,Automatic,Petrol, 2.7 L,7,1136
+1084,272,2.8V 4x4 AT,Imported,Automatic,Diesel, 2.8 L,7,1137
+1085,272,2.8V 4x4 AT Legender,Assembly,Automatic,Diesel, 2.8 L,7,1138
+1086,272,Legender 2.4L 4x2 AT,Assembly,Automatic,Diesel, 2.4 L,7,1139
+1087,272,Legender 2.8L 4x4 AT,Assembly,Automatic,Diesel, 2.8 L,7,1140
+1088,272,SR5 2.7 AT,Imported,Automatic,Petrol, 2.7 L,7,1141
+1089,272,TRD Sportivo 4x2 AT,Assembly,Automatic,Petrol, 2.7 L,7,1142
+1090,272,TRD Sportivo 4x4 AT,Assembly,Automatic,Petrol, 2.7 L,7,1143
+1091,273,2.5,Assembly,Manual,Diesel, 2.5 L,,1144
+1092,273,2.7,Imported,Manual,Petrol, 2.7 L,,1145
+1093,273,Super Wagon 2.7,Assembly,Manual,Petrol, 2.7 L,,1146
+1094,273,Van 2.5,Assembly,Manual,Diesel, 2.5 L,,1147
+1095,274,LE 2.7,Imported,Automatic,Petrol, 2.7 L,7,1148
+1096,274,Limited 3.5,Imported,Automatic,Petrol, 3.5 L,7,1149
+1097,274,Limited 3.5 AWD,Imported,Automatic,Petrol, 3.5 L,7,1150
+1098,274,SE 2.7,Imported,Automatic,Petrol, 2.7 L,7,1151
+1099,275,2.4E 4x2 AT,Imported,Automatic,Diesel, 2.4 L,,1152
+1100,275,2.4E 4x2 MT,Imported,Manual,Diesel, 2.4 L,,1153
+1101,275,2.4L 4x2 AT,Imported,Automatic,Diesel, 2.4 L,,1154
+1102,275,2.5E 4x2 MT,Imported,Manual,Diesel, 2.5 L,,1155
+1103,275,2.8G 4x4 AT,Imported,Automatic,Diesel, 2.8 L,,1156
+1104,275,2.8L 4x4 AT,Imported,Automatic,Diesel, 2.8 L,,1157
+1105,275,3.0G 4x4 AT,Imported,Automatic,Diesel, 3.0 L,,1158
+1106,275,3.0G 4x4 MT,Imported,Manual,Diesel, 3.0 L,,1159
+1107,275,Adventure 2.8L 4x4 AT,Imported,Automatic,Diesel, 2.8 L,,1160
+1108,275,GR Sport 2.8L 4x4 AT,Imported,Automatic,Diesel, 2.8 L,,1162
+1109,276,2.0 MT,Assembly,Manual,Petrol, 2.0 L,5,1164
+1110,276,2.0 Venturer,Assembly,Automatic,Petrol, 2.0 L,5,1165
+1111,276,2.0E,Assembly,Manual,Petrol, 2.0 L,5,1166
+1112,276,2.0G,Assembly,Automatic,Petrol, 2.0 L,5,1167
+1113,276,2.0J,Assembly,Manual,Petrol, 2.0 L,5,1168
+1114,276,2.0V,Assembly,Automatic,Petrol, 2.0 L,5,1169
+1115,276,Cross 2.0 CVT,Imported,Automatic,Petrol, 2.0 L,5,1170
+1116,276,Cross HEV 2.0 CVT,Imported,Automatic,Hybrid, 2.0 L,5,1171
+1117,276,E 2.0 MT,Assembly,Manual,Petrol, 2.0 L,5,1172
+1118,276,G,Assembly,Manual,Petrol, 2.0 L,5,1173
+1119,276,G 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,1174
+1120,276,G SR,Assembly,Manual,Petrol, 2.0 L,5,1175
+1121,276,GSR,Assembly,Manual,Petrol, 2.0 L,5,1176
+1122,276,V,Assembly,Automatic,Petrol, 2.0 L,5,1177
+1123,276,Venturer 2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,1178
+1124,277,1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,1163
+1125,278,BJ40 3.0 MT,Imported,Manual,Diesel, 3.0 L,7,1179
+1126,279,GX 4.2 MT,Imported,Manual,Diesel, 4.2 L,7,1180
+1127,279,GX 4.5,Assembly,Manual,Petrol, 4.5 L,7,1181
+1128,279,GX.R 4.5,Imported,Automatic,Petrol, 4.5 L,7,1182
+1129,279,II 2.4 MT,Imported,Manual,Petrol, 2.4 L,7,1183
+1130,279,II 2.8 MT,Imported,Manual,Diesel, 2.8 L,7,1184
+1131,279,VX 4.6 V8,Imported,Automatic,Petrol, 4.6 L,7,1185
+1132,280,GX 2.7 AT,Imported,Automatic,Petrol, 2.7 L,7,1186
+1133,280,TXL 2.7L,Imported,Automatic,Petrol, 2.7 L,7,1187
+1134,280,VX 2.7L,Imported,Automatic,Petrol, 2.7 L,7,1188
+1135,280,VX 4.0 AT,Imported,Automatic,Petrol, 4.0 L,7,1189
+1136,281,2.4 AT,Imported,Automatic,Petrol, 2.4 L,,1190
+1137,281,GL 2.4 AT,Imported,Automatic,Petrol, 2.4 L,,1191
+1138,282,G 1.0 CVT,Imported,Automatic,Petrol, 1.0 L,7,1201
+1139,283,2.4 AT,Imported,Automatic,Petrol, 2.4 L,7,1193
+1140,283,2.5 AT AWD,Imported,Automatic,Petrol, 2.5 L,7,1194
+1141,283,LE 2.5 AWD,Imported,Automatic,Petrol, 2.5 L,7,1195
+1142,283,Limited 2.4 FWD,Imported,Automatic,Petrol, 2.4 L,7,1196
+1143,283,Limited 2.5 AT,Imported,Automatic,Petrol, 2.5 L,7,1197
+1144,283,Limited 3.5 V6,Imported,Automatic,Petrol, 3.5 L,7,1198
+1145,283,Limited 3.5 V6 FWD,Imported,Automatic,Petrol, 3.5 L,7,1199
+1146,283,XLE 2.5 FWD,Imported,Automatic,Petrol, 2.5 L,7,1200
+1147,284,1.5S AT,Imported,Automatic,Petrol, 1.5 L,7,1202
+1148,285,Limited 4.7 AT 4WD,Imported,Automatic,Petrol, 4.7 L,7,1203
+1149,286,LE 2.7,Imported,Automatic,Petrol, 2.7 L,,1204
+1150,286,LE 3.3,Imported,Automatic,Petrol, 3.3 L,,1205
+1151,286,LE 3.5,Imported,Automatic,Petrol, 3.5 L,,1206
+1152,286,Limited 3.5,Imported,Automatic,Petrol, 3.5 L,,1207
+1153,286,Limited 3.5 AWD,Imported,Automatic,Petrol, 3.5 L,,1208
+1154,286,SE 3.5 AWD,Imported,Automatic,Petrol, 3.5 L,,1209
+1155,286,XLE 3.5,Imported,Automatic,Petrol, 3.5 L,,1210
+1156,286,XLE Limited 3.3,Imported,Automatic,Petrol, 3.3 L,,1211
+1157,287,SLE 3.3 V6,Imported,Automatic,Petrol, 3.3 L,2,1212
+1158,288,2.2 AT 4WD,Imported,Automatic,Diesel, 2.2 L,,1213
+1159,289,1794 Edition,Imported,Automatic,Petrol, 5.7 L,,1214
+1160,289,5.7 V8 4x4 AT,Imported,Automatic,Diesel, 5.7 L,,1215
+1161,290,1.5 CVT,Assembly,Automatic,Petrol, 1.5 L,7,1216
+1162,290,Top 1.5 CVT,Assembly,Automatic,Petrol, 1.5 L,7,1217
+1163,291,2.7,Imported,Automatic,Petrol, 2.7 L,5,1218
+1164,291,2.7 AWD,Imported,Automatic,Petrol, 2.7 L,5,1219
+1165,291,3.5,Imported,Automatic,Petrol, 3.5 L,5,1220
+1166,291,3.5 AWD,Imported,Automatic,Petrol, 3.5 L,5,1221
+1167,292,1.3 Limo,Assembly,Manual,Petrol, 1.3 L,5,1222
+1168,292,1.3J,Assembly,Manual,Petrol, 1.3 L,5,1223
+1169,292,1.3MT,Assembly,Manual,Petrol, 1.3 L,5,1224
+1170,292,1.5 TRD,Assembly,Automatic,Petrol, 1.5 L,5,1225
+1171,292,1.5E,Assembly,Manual,Petrol, 1.5 L,5,1226
+1172,292,1.5E CVT,Assembly,Automatic,Petrol, 1.5 L,5,1227
+1173,292,1.5E MT,Assembly,Manual,Petrol, 1.5 L,5,1228
+1174,292,1.5G,Assembly,Automatic,Petrol, 1.5 L,5,1229
+1175,292,1.5G CVT,Assembly,Automatic,Petrol, 1.5 L,5,1230
+1176,292,E 1.5 MT,Assembly,Manual,Petrol, 1.5 L,5,1231
+1177,292,E CVT,Assembly,Automatic,Petrol, 1.5 L,5,1232
+1178,292,G 1.5 CVT,Assembly,Automatic,Petrol, 1.5 L,5,1233
+1179,292,GR-S 1.5 CVT,Assembly,Automatic,Petrol, 1.5 L,5,1234
+1180,292,Limo,Assembly,Manual,Petrol, 1.5 L,5,1235
+1181,293,1.2 AT,Imported,Automatic,Petrol, 1.2 L,5,1236
+1182,293,1.2 MT,Imported,Manual,Petrol, 1.2 L,5,1237
+1183,293,1.2G AT,Imported,Automatic,Petrol, 1.2 L,5,1238
+1184,293,1.2G MT,Imported,Manual,Petrol, 1.2 L,5,1239
+1185,293,E 1.2 MT,Imported,Manual,Petrol, 1.2 L,5,1240
+1186,293,G 1.2 AT,Imported,Automatic,Petrol, 1.2 L,5,1241
+1187,294,1.3 AT,Imported,Automatic,Petrol, 1.3 L,5,1242
+1188,294,1.3E,Imported,Automatic,Petrol, 1.3 L,5,1243
+1189,294,1.3G,Imported,Automatic,Petrol, 1.3 L,5,1244
+1190,294,1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,1245
+1191,294,1.5G,Imported,Automatic,Petrol, 1.5 L,5,1246
+1192,294,Cross 1.5 D-CVT,Imported,Automatic,Petrol, 1.5 L,7,1247
+1193,294,Cross HEV 1.5 CVT,Imported,Automatic,Hybrid, 1.5 L,7,1248
+1194,294,G 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,1249
+1195,294,RS 1.5 AT,Imported,Automatic,Petrol, 1.5 L,5,1250
+1196,295,GL,Assembly,Manual,Petrol, 1.8 L,7,1251
+1197,296,1.4 AT,Assembly,Automatic,Petrol, 1.4 L,5,1253
+1198,296,1.4 AT Plus,Assembly,Automatic,Petrol, 1.4 L,5,1254
+1199,296,1.4 AT Premium,Assembly,Automatic,Petrol, 1.4 L,5,1255
+1200,297,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,5,1259
+1201,297,2.0 Plus,Assembly,Automatic,Petrol, 2.0 L,5,1262
+1202,297,2.0 Premium,Assembly,Automatic,Petrol, 2.0 L,5,1263
+1203,298,2.0 AT,Assembly,Automatic,Petrol, 2.0 L,7,1265
+1204,298,2.0 Plus,Assembly,Automatic,Petrol, 2.0 L,7,1268
+1205,298,2.0 Premium,Assembly,Automatic,Petrol, 2.0 L,7,1269
+1206,299,AT,Assembly,Automatic,Electric,,5,1271
+1207,300,Plus,Assembly,Automatic,Electric,,5,1272
+1208,301,Plus,Assembly,Automatic,Electric,,7,1273
+1209,302,Plus,Assembly,Automatic,Electric,,7,1274
+1210,302,S,Assembly,Automatic,Electric,,7,1275
+1211,303,Plus,Assembly,Automatic,Electric,,7,1276
+1212,303,S,Assembly,Automatic,Electric,,7,1277
+1213,304,Eco,Assembly,Automatic,Electric,,7,1278
+1214,304,Lux,Assembly,Automatic,Electric,,7,1279
+1215,304,Lux Plus,Assembly,Automatic,Electric,,7,1280
+1216,304,Plus,Assembly,Automatic,Electric,,7,1281
+1217,304,S,Assembly,Automatic,Electric,,7,1282
+1218,305,Eco,Assembly,Automatic,Electric,,7,1283
+1219,305,Plus,Assembly,Automatic,Electric,,7,1284
+1220,306,2.0 TSI Cabriolet,Imported,Automatic,Petrol, 2.0 L,2,1285
+1221,307,Beetle 1.6 AT,Imported,Automatic,Petrol, 1.6 L,2,1286
+1222,307,Beetle 2.5 AT,Imported,Automatic,Petrol, 2.5 L,2,1287
+1223,308,1.8 Bluemotion,Imported,Automatic,Petrol, 1.8 L,5,1288
+1224,308,1.8TSI,Imported,Automatic,Petrol, 1.8 L,5,1289
+1225,308,CC 2.0 AT,Imported,Automatic,Petrol, 2.0 L,5,1290
+1226,309,1.6 AT,Imported,Automatic,Petrol, 1.6 L,5,1291
+1227,310,SE 3.8 AT,Imported,Automatic,Petrol, 3.8 L,,1292
+1228,311,1.4 AT,Imported,Automatic,Petrol, 1.4 L,2,1293
+1229,311,2.0 AT,Imported,Automatic,Petrol, 2.0 L,2,1294
+1230,312,Elegance 1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,1295
+1231,312,Luxury 1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,1296
+1232,313,2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,1297
+1233,313,Limited Edition 2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,1298
+1234,314,2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,1299
+1235,314,Allspace,Imported,Automatic,Petrol, 2.0 L,7,1300
+1236,314,Allspace Luxury,Imported,Automatic,Petrol, 2.0 L,7,1301
+1237,315,2.5 R5 TDI,Imported,Automatic,Diesel, 2.5 L,7,1302
+1238,315,3.6 AT,Imported,Automatic,Petrol, 3.6 L,7,1303
+1239,316,Premium,Imported,Automatic,Petrol, 2.0 L,,1305
+1240,317,Luxury 1.0 AT,Imported,Automatic,Petrol, 1.0 L,5,1306
+1241,318,B5 R-Design AWD,Imported,Automatic,Petrol, 2.0 L,5,1307
+1242,318,T5 R-Design AWD,Imported,Automatic,Petrol, 2.0 L,5,1308
+1243,319,Inscription LWB B6 AWD,Imported,Automatic,Petrol, 2.0 L,5,1309
+1244,319,Inscription T6 AWD,Imported,Automatic,Petrol, 2.0 L,5,1310
+1245,319,LWB Ultimate B6 AWD,Imported,Automatic,Petrol, 2.0 L,5,1311
+1246,319,T5 Inscription,Imported,Automatic,Petrol, 2.0 L,5,1312
+1247,320,Cross County T6 AWD,Imported,Automatic,Petrol, 2.0 L,5,1313
+1248,321,T5 AWD R-Design,Imported,Automatic,Petrol, 2.0 L,7,1314
+1249,321,Ultimate B5 AWD,Imported,Automatic,Petrol, 2.0 L,7,1315
+1250,322,Inscription B6 AWD,Imported,Automatic,Petrol, 2.0 L,7,1316
+1251,322,T6 AWD Inscription,Imported,Automatic,Petrol, 2.0 L,7,1317
+1252,322,T6 AWD R-Design,Imported,Automatic,Petrol, 2.0 L,7,1318
+1253,323,T6 Inscription,Imported,Automatic,Petrol, 2.0 L,7,1319
+1254,324,2.0 AT,Imported,Automatic,Petrol, 2.0 L,7,1320
